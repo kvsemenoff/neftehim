@@ -1,3 +1,5 @@
+<?php require_once('includes/doctype.php'); ?>
+<title>Сервис</title>
 <?php require_once('includes/header.php'); ?>
 <div class="n-wrapper">
 	<div class="n-header">
