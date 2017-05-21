@@ -7,7 +7,11 @@
   font-size: 10px;
   font-weight: 400;
   line-height: 20px;
-  color: #555555; }
+  color: #555555;
+  margin-bottom: 19px; }
+  .input__message_textarea {
+    resize: none;
+    min-height: 392px; }
 
 .input__sidebar {
   width: 100%;
@@ -20,5 +24,8 @@
   font-weight: 400;
   line-height: 20px;
   color: #555; }
+  .input__sidebar_textarea {
+    resize: none;
+    height: 90px; }
 
 /*# sourceMappingURL=style.css.map */
