@@ -6,5 +6,15 @@
   font-weight: 400;
   line-height: 14px;
   padding-bottom: 20px; }
+.doc-item a {
+  display: inline-block;
+  margin-top: 20px;
+  margin-right: 15px;
+  text-decoration: underline;
+  color: #431f18;
+  font-size: 12px; }
+  .doc-item a:hover {
+    color: #F57107;
+    text-decoration: none; }
 
 /*# sourceMappingURL=style.css.map */
