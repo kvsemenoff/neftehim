@@ -14,16 +14,19 @@
   .news-item__caption:hover {
     color: #f57107; }
 
-.news-item__img img {
-  width: 100%;
-  height: auto; }
+.news-item__img {
+  margin-bottom: 12px; }
+  .news-item__img img {
+    width: 100%;
+    height: auto; }
 
 .news-item__txt {
   color: black;
   font-family: Arial;
   font-size: 12px;
   font-weight: 400;
-  line-height: 20px; }
+  line-height: 20px;
+  display: block; }
   .news-item__txt:hover {
     text-decoration: underline; }
 
