@@ -1,0 +1,31 @@
+.product-section{
+	text-align: center;
+	@media only screen and (min-width : 1200px) {
+		text-align: left;	
+	}
+}
+.product-section__box{
+	display: inline-block;
+	max-width: 360px;
+	width: 100%;
+	margin-bottom: 20px;	
+	@media only screen and (min-width : 990px) {
+		max-width: 300px;
+		margin-right: 5px;
+		margin-bottom: 0;
+	}
+	@media only screen and (min-width : 1200px) {
+		margin-right: 23px;
+		max-width: 360px;
+	}
+}
+.product-section__box_last{
+	margin-right: 0;
+}
+
+.product-section__img{
+	img{
+		width: 100%;
+		height: auto;
+	}
+}
