@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,OAAQ,CACP,WAAW,CAAE,iBAAiB,CAC9B,KAAK,CAAE,OAAO,CACd,cAAc,CAAE,SAAS",
+"mappings": "AAAA,MAAO,CACN,WAAW,CAAE,IAAI",
 "sources": ["strong.scss"],
 "names": [],
 "file": "strong.css"
