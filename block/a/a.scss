@@ -1,4 +1,8 @@
-a:focus{
+a{
+	text-decoration: underline;
+}
+a:hover{
+	cursor: pointer;
 	color: #f57107;
 	text-decoration: none;
 }
