@@ -1,5 +1,5 @@
 .product-item {
-  max-width: 370px;
+  max-width: 365px;
   width: 100%;
   display: inline-block;
   text-align: center;
@@ -7,9 +7,13 @@
   @media only screen and (min-width: 480px) {
     .product-item {
       text-align: left; } }
-  @media only screen and (min-width: 990px) {
+  @media only screen and (min-width: 770px) {
     .product-item {
-      margin-bottom: 0px; } }
+      margin-bottom: 0px;
+      max-width: 310px; } }
+  @media only screen and (min-width: 1200px) {
+    .product-item {
+      max-width: 365px; } }
 
 .product-item__caption {
   color: #431f18;
@@ -21,11 +25,14 @@
   min-height: 33px; }
 
 .product-item__img {
-  max-width: 180px;
+  max-width: 170px;
   width: 100%;
   display: inline-block;
   vertical-align: top;
   margin-bottom: 15px; }
+  @media only screen and (min-width: 1200px) {
+    .product-item__img {
+      max-width: 180px; } }
   .product-item__img img {
     width: 100%;
     height: auto; }
@@ -35,14 +42,14 @@
       content: "";
       position: absolute;
       top: 50%;
-      right: 15%;
-      transform: translateY(-50%);
+      left: 50%;
+      transform: translate(-50%, -50%);
       width: 31px;
       height: 31px;
       background: url("../../img/zoom.png") no-repeat center; }
 
 .product-item__txtbox {
-  max-width: 183px;
+  max-width: 175px;
   width: 100%;
   display: inline-block;
   padding-left: 12px;
@@ -50,6 +57,12 @@
   line-height: 20px;
   text-align: left;
   margin-top: -5px; }
+  @media only screen and (min-width: 770px) {
+    .product-item__txtbox {
+      max-width: 135px; } }
+  @media only screen and (min-width: 1200px) {
+    .product-item__txtbox {
+      max-width: 175px; } }
 
 .product-item__buttons {
   margin-top: 4px;
@@ -67,8 +80,11 @@
   display: block; }
   @media only screen and (min-width: 770px) {
     .product-item__pasport {
-      width: 227px;
+      width: 160px;
       display: inline-block; } }
+  @media only screen and (min-width: 1200px) {
+    .product-item__pasport {
+      width: 227px; } }
 
 .product-item__look, .product-item__download {
   display: inline-block;
