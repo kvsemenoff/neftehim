@@ -10,7 +10,7 @@
   .button-more span {
     color: white;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 400;
     display: inline-block;
     position: absolute;
@@ -19,6 +19,9 @@
     transform: translateY(-50%);
     width: 190px;
     z-index: 99; }
+    @media only screen and (min-width: 480px) {
+      .button-more span {
+        font-size: 16px; } }
   .button-more:before {
     content: "";
     position: absolute;
