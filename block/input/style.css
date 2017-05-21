@@ -11,7 +11,8 @@
   margin-bottom: 19px; }
   .input__message_textarea {
     resize: none;
-    min-height: 392px; }
+    min-height: 392px;
+    padding-top: 11px; }
 
 .input__sidebar {
   width: 100%;
@@ -26,6 +27,7 @@
   color: #555; }
   .input__sidebar_textarea {
     resize: none;
-    height: 90px; }
+    height: 90px;
+    padding-top: 11px; }
 
 /*# sourceMappingURL=style.css.map */
