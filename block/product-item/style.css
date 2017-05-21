@@ -9,11 +9,11 @@
       text-align: left; } }
   @media only screen and (min-width: 770px) {
     .product-item {
-      margin-bottom: 0px;
       max-width: 310px; } }
   @media only screen and (min-width: 1200px) {
     .product-item {
-      max-width: 365px; } }
+      max-width: 365px;
+      margin-bottom: 0px; } }
 
 .product-item__caption {
   color: #431f18;

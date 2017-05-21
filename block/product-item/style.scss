@@ -7,12 +7,12 @@
 	@media only screen and (min-width : 480px) {
 		text-align: left;		
 	}
-	@media only screen and (min-width : 770px) {
-		margin-bottom: 0px;
+	@media only screen and (min-width : 770px) {		
 		max-width: 310px;
 	}
 	@media only screen and (min-width : 1200px) {
 		max-width: 365px;
+		margin-bottom: 0px;
 	}
 
 }
