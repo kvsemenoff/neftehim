@@ -1,7 +1,17 @@
-.submit {
+input[type="submit"] {
   color: #421f18;
   font-family: Arial;
   font-size: 16px;
-  font-weight: 400; }
+  font-weight: 400;
+  text-transform: uppercase;
+  border: 1px solid #421f18;
+  border-radius: 25px;
+  height: 33px;
+  padding: 0 11px;
+  background-color: transparent;
+  transition: 0.3s; }
+  input[type="submit"]:hover {
+    color: #f57107;
+    border-color: #f57107; }
 
 /*# sourceMappingURL=style.css.map */
