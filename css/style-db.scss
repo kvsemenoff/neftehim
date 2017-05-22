@@ -5,27 +5,45 @@
 	line-height: 20px;
 	color: #555;
 	background: url("../img/footer-fon.jpg")no-repeat;
-
+	background-size: cover;
 	&_copyright{
-		
+		padding-bottom: 15px;
+		text-align: center;
+		@media only screen and (min-width : 992px) {
+			text-align: left;
+		}
 	}
 	&__form{
+		max-width: 265px;
 		input[type="text"]{
-			    background: rgba(0, 0, 0, 0) !important;
+			background: rgba(0, 0, 0, 0) !important;
 		}
 	}
 	&_adress{
+		text-align: center;
+		@media only screen and (min-width : 992px) {
+			text-align: left;
+		}
 		span{
 			color: #f57107;
 			padding-right:5px;
 		}
 		&:nth-child(1){
 			padding-bottom: 10px;
+			padding-top: 20px;
+			@media only screen and (min-width : 992px) {
+				padding-top: unset;
+			}
 		}
 	}
 	&_mail{
-		float: right;
-		text-align: right;
+		padding-top: 20px;
+		text-align: center;
+		@media only screen and (min-width : 992px) {
+			padding-top: unset;
+			float: right;
+			text-align: right;
+		}
 		span{
 			color: #f57107;
 		}
