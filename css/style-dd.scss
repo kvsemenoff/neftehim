@@ -1,10 +1,21 @@
+/* Header
+==========================*/
 .header-box__left, .header-box__right{
 	padding: 20px 0px;
 }
 .header-box__left{
-	max-width: 391px;
+	@media only screen and (min-width : 768px) {
+		max-width: 391px;
+	}
+	img{
+		margin: 0 auto;
+		@media only screen and (min-width : 768px) {
+			margin-left: 0;
+		}
+	}
 }
 .header-box__right{
+	text-align: center;
 	@media only screen and (min-width : 768px) {
 		text-align: right;
 	}
@@ -37,13 +48,17 @@
 	background-size:cover;
 	@media only screen and (min-width : 768px) {
 		background:url(../img/mw.jpg) no-repeat top center;
-			background-size:cover;
+		background-size:cover;
 	}
 	.main-menu{
 		display: none;
 		text-align: center;
+		padding-bottom: 15px;
+		padding-top: 15px;
 		@media only screen and (min-width : 768px) {
 			display: block !important;
+			padding-bottom: 0;
+			padding-top: 0;
 		}
 		@media only screen and (min-width : 992px) {
 			text-align: left;
@@ -58,7 +73,7 @@
 				margin-right: 132px;
 			}
 			a{
-				font-size: 13px;
+				font-size: 15px;
 				font-weight: 400;
 				text-transform: uppercase;
 				text-decoration: none;
@@ -77,4 +92,12 @@
 			}
 		}
 	}
+}
+
+/* Catalog
+==========================*/
+.catalog-wrap{
+	background:url(../img/catimg.jpg) no-repeat top center;
+	background-size:cover;
+	width: 100%;
 }
