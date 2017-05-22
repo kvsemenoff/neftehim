@@ -1,19 +1,29 @@
+/* Header
+==========================*/
 .header-box__left, .header-box__right {
   padding: 20px 0px; }
 
-.header-box__left {
-  max-width: 391px; }
-
 @media only screen and (min-width: 768px) {
-  .header-box__right {
-    text-align: right; } }
-.header-box__right span {
-  display: inline-block;
-  color: #421f18;
-  font-size: 30px;
-  font-weight: 400; }
-  .header-box__right span b {
-    color: #f57107; }
+  .header-box__left {
+    max-width: 391px; } }
+.header-box__left img {
+  margin: 0 auto; }
+  @media only screen and (min-width: 768px) {
+    .header-box__left img {
+      margin-left: 0; } }
+
+.header-box__right {
+  text-align: center; }
+  @media only screen and (min-width: 768px) {
+    .header-box__right {
+      text-align: right; } }
+  .header-box__right span {
+    display: inline-block;
+    color: #421f18;
+    font-size: 30px;
+    font-weight: 400; }
+    .header-box__right span b {
+      color: #f57107; }
 
 .menu__mobile {
   background: url(../img/mw.jpg) no-repeat top center;
@@ -37,10 +47,12 @@
       background-size: cover; } }
   .menu__wrap .main-menu {
     display: none;
-    text-align: center; }
+    text-align: center;
+    padding-bottom: 25px; }
     @media only screen and (min-width: 768px) {
       .menu__wrap .main-menu {
-        display: block !important; } }
+        display: block !important;
+        padding-bottom: 0; } }
     @media only screen and (min-width: 992px) {
       .menu__wrap .main-menu {
         text-align: left; } }
@@ -54,7 +66,7 @@
         .menu__wrap .main-menu li {
           margin-right: 132px; } }
       .menu__wrap .main-menu li a {
-        font-size: 13px;
+        font-size: 15px;
         font-weight: 400;
         text-transform: uppercase;
         text-decoration: none;
@@ -67,5 +79,12 @@
     @media only screen and (min-width: 1240px) {
       .menu__wrap .main-menu li:last-child {
         margin-right: 0; } }
+
+/* Catalog
+==========================*/
+.catalog-wrap {
+  background: url(../img/catimg.jpg) no-repeat top center;
+  background-size: cover;
+  width: 100%; }
 
 /*# sourceMappingURL=style-dd.css.map */
