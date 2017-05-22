@@ -1,0 +1,108 @@
+.service-page{
+	background: url(../img/service-bg.jpg) center/cover;
+	.box{
+		margin-bottom: 20px;
+		p{
+			padding-bottom: 18px;
+		}
+		p:last-child{
+			padding-bottom: 0;
+		}
+		&-descr{
+			font-size: 12px;
+			text-transform: uppercase;
+			color: #431f18;
+			display: block;
+			padding-left: 15px;
+		}
+	}
+}
+.docs{
+	padding-bottom: 15px;
+}
+.doc-wrap{
+	float: left;
+	width: 195px;
+	padding: 0 15px;
+}
+.archive-pagination{
+	width: 360px;
+	margin: 0 auto;
+	span{
+		text-align: center;
+		display: block;
+		float: left;
+		line-height: 79px;
+		font-size: 40px;
+		color: #431f18;
+		width: 80px;
+	}
+	.pagination__btn{
+		width: 140px;
+		display: block;
+		height: 79px;
+		position: relative;
+		float: left;
+		transition: 0.3s all ease;
+		background: url(../img/pagination-arrow.png) center left no-repeat;
+		margin-bottom: 15px;
+		&::before{
+			content: "";
+			display: block;
+			position: absolute;
+			right: 0;
+			top: 50%;
+			margin-top: -16px;
+			width: 40px;
+			height: 32px;
+			transition: 0.3s all ease;
+			background: url(../img/arrow2.png);
+			transform: rotate(180deg);
+		}
+		&:hover{
+			background: url(../img/pagination-arrow-hover.png) center left no-repeat;
+			&::before{
+				background: url(../img/arrow1.png);
+			}
+		}
+		&_right{
+			transform: rotate(180deg);
+		}
+	}
+}
+.mape-page{
+	background: url(../img/mape-bg.jpg) center/cover;
+	.box{
+		margin-bottom: 20px;
+	}
+	.mape-wrap{
+		height: 500px;
+	}
+}
+.mape-info{
+	padding-top: 15px;
+	.info_left{
+		width: 390px;
+		float: left;
+		padding-right: 5px;
+	}
+	.info_right{
+		margin-left: 390px;
+	}
+	span{
+		display: block;
+		text-transform: uppercase;
+		color: #431f18;
+		font-size: 12px;
+		padding-bottom: 10px;
+	}
+	p{
+		line-height: 20px;
+		font-size: 12px;
+		color: #000;
+	}
+	a{
+		color: #000;
+		font-size: 12px;
+	}
+}
