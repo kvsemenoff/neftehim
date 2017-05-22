@@ -40,7 +40,7 @@
 		<h1>Спасибо за заявку.</h1>
 		<p>Наш менеджер свяжется с вами!</p>
 	</div>
-
+<a href="#js-form2" class="js-modal"></a>
 
 	<!-- JS_BLOCK -->
 	<script src="libs/jquery/jquery-1.11.1.min.js"></script>
