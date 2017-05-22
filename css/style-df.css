@@ -52,12 +52,12 @@
     .about__txtbox {
       width: 68%;
       float: right;
-      padding: 18px 10px 40px 10px;
       margin-bottom: 0px; } }
   @media only screen and (min-width: 1200px) {
     .about__txtbox {
       max-width: 750px;
-      width: 100%; } }
+      width: 100%;
+      padding: 18px 10px 40px 10px; } }
 
 .about__caption {
   color: #f57107;
@@ -93,5 +93,25 @@
     margin-bottom: 20px; }
   .about__formbox input[type="submit"] {
     margin-top: 13px; }
+
+.news {
+  padding: 18px 0 15px 0; }
+  .news .news-item {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    vertical-align: top; }
+    @media only screen and (min-width: 990px) {
+      .news .news-item {
+        margin-right: 15px;
+        max-width: 300px;
+        display: inline-block;
+        margin-bottom: 0px; } }
+    @media only screen and (min-width: 1200px) {
+      .news .news-item {
+        margin-right: 26px;
+        max-width: 360px; } }
+  @media only screen and (min-width: 990px) {
+    .news .news-item:nth-child(3n) {
+      margin-right: 0; } }
 
 /*# sourceMappingURL=style-df.css.map */

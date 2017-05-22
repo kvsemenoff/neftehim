@@ -10,12 +10,15 @@
   font-weight: 600;
   line-height: 14px;
   display: inline-block;
-  min-height: 30px; }
+  min-height: 25px;
+  text-decoration: none;
+  margin-bottom: 5px;
+  vertical-align: top; }
   .news-item__caption:hover {
     color: #f57107; }
 
 .news-item__img {
-  margin-bottom: 16px; }
+  margin-bottom: 10px; }
   .news-item__img img {
     width: 100%;
     height: auto; }
@@ -26,7 +29,8 @@
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
-  display: block; }
+  display: block;
+  text-decoration: none; }
   .news-item__txt:hover {
     text-decoration: underline; }
 
