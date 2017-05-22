@@ -18,6 +18,7 @@
 					<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
 				</p>
 			</div>
+			<div class="clearfix"></div>
 		</div>
 	</div>
 </div>
