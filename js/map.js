@@ -4,7 +4,7 @@ var myMap,
 myPlacemark;
 
 function init(){ 
-	myMap = new ymaps.Map("map", {
+	myMap = new ymaps.Map("map-ofice", {
 		center: [55.75430171942093,37.762623379623356],
 		zoom: 16,
 		controls: []

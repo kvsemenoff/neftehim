@@ -70,3 +70,39 @@
 		}
 	}
 }
+.mape-page{
+	background: url(../img/mape-bg.jpg) center/cover;
+	.box{
+		margin-bottom: 20px;
+	}
+	.mape-wrap{
+		height: 500px;
+	}
+}
+.mape-info{
+	padding-top: 15px;
+	.info_left{
+		width: 390px;
+		float: left;
+		padding-right: 5px;
+	}
+	.info_right{
+		margin-left: 390px;
+	}
+	span{
+		display: block;
+		text-transform: uppercase;
+		color: #431f18;
+		font-size: 12px;
+		padding-bottom: 10px;
+	}
+	p{
+		line-height: 20px;
+		font-size: 12px;
+		color: #000;
+	}
+	a{
+		color: #000;
+		font-size: 12px;
+	}
+}
