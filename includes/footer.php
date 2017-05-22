@@ -3,18 +3,18 @@
 		<div class="row">
 			<div class="col-md-4">
 				<p class="footer_copyright">© 2017 ООО «НенфтеХимСинтез»</p>
-				<form class="search-box">
+				<form class="search-box footer_form">
 					<input type="text"  name="s">
 					<input type="submit" value="">
 				</form>
 			</div>
 			<div class="col-md-4">
-				<p><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
-				<p><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
+				<p class="footer_adress"><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
+				<p class="footer_adress"><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
 				
 			</div>
 			<div class="col-md-4">
-				<p>8 499 685 10 26 <br>
+				<p class="footer_mail">8 499 <span>685 10 26</span> <br>
 					<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
 				</p>
 			</div>
