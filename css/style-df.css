@@ -137,8 +137,21 @@
   background-size: cover; }
 
 .bitumsblock {
-  padding: 14px 14px 20px 14px; }
+  padding: 14px 14px 20px 14px;
+  text-align: center; }
   .bitumsblock .product-item {
-    margin-bottom: 16px; }
+    margin-bottom: 11px; }
+    @media only screen and (min-width: 1200px) {
+      .bitumsblock .product-item {
+        margin-right: 19px; } }
+    .bitumsblock .product-item .product-item__img {
+      margin-bottom: 6px; }
+  .bitumsblock .product-item_last {
+    margin-right: 0; }
+  .bitumsblock .about__caption {
+    margin-bottom: 14px;
+    text-align: left; }
+  .bitumsblock .news-button {
+    margin-top: 10px; }
 
 /*# sourceMappingURL=style-df.css.map */

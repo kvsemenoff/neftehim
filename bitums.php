@@ -43,7 +43,7 @@
 							<a href="#" class="product-item__download">Скачать</a>
 						</div>
 					</div>
-					<div class="product-item">
+					<div class="product-item product-item_last">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 						<div class="product-item__img">
 							<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
@@ -85,7 +85,7 @@
 							<a href="#" class="product-item__download">Скачать</a>
 						</div>
 					</div>
-					<div class="product-item">
+					<div class="product-item product-item_last">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 						<div class="product-item__img">
 							<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
@@ -127,7 +127,7 @@
 							<a href="#" class="product-item__download">Скачать</a>
 						</div>
 					</div>
-					<div class="product-item">
+					<div class="product-item product-item_last">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 						<div class="product-item__img">
 							<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
