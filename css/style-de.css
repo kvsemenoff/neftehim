@@ -7,3 +7,11 @@
 .docs { padding-bottom: 15px; }
 
 .doc-wrap { float: left; width: 195px; padding: 0 15px; }
+
+.archive-pagination { width: 360px; margin: 0 auto; }
+.archive-pagination span { text-align: center; display: block; float: left; line-height: 79px; font-size: 40px; color: #431f18; width: 80px; }
+.archive-pagination .pagination__btn { width: 140px; display: block; height: 79px; position: relative; float: left; transition: 0.3s all ease; background: url(../img/pagination-arrow.png) center left no-repeat; margin-bottom: 15px; }
+.archive-pagination .pagination__btn::before { content: ""; display: block; position: absolute; right: 0; top: 50%; margin-top: -16px; width: 40px; height: 32px; transition: 0.3s all ease; background: url(../img/arrow2.png); transform: rotate(180deg); }
+.archive-pagination .pagination__btn:hover { background: url(../img/pagination-arrow-hover.png) center left no-repeat; }
+.archive-pagination .pagination__btn:hover::before { background: url(../img/arrow1.png); }
+.archive-pagination .pagination__btn_right { transform: rotate(180deg); }
