@@ -53,12 +53,12 @@
 	.main-menu{
 		display: none;
 		text-align: center;
-		padding-bottom: 15px;
-		padding-top: 15px;
+		padding-bottom: 25px;
+		// padding-top: 15px;
 		@media only screen and (min-width : 768px) {
 			display: block !important;
 			padding-bottom: 0;
-			padding-top: 0;
+			// padding-top: 0;
 		}
 		@media only screen and (min-width : 992px) {
 			text-align: left;

@@ -48,13 +48,11 @@
   .menu__wrap .main-menu {
     display: none;
     text-align: center;
-    padding-bottom: 15px;
-    padding-top: 15px; }
+    padding-bottom: 25px; }
     @media only screen and (min-width: 768px) {
       .menu__wrap .main-menu {
         display: block !important;
-        padding-bottom: 0;
-        padding-top: 0; } }
+        padding-bottom: 0; } }
     @media only screen and (min-width: 992px) {
       .menu__wrap .main-menu {
         text-align: left; } }

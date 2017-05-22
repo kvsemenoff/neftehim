@@ -17,7 +17,7 @@
 							<div class="product-item">
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 								<div class="product-item__img">
-									<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+									<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
 								</div>
 								<div class="product-item__txtbox">
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.
@@ -32,7 +32,7 @@
 							<div class="product-item">
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 								<div class="product-item__img">
-									<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+									<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
 								</div>
 								<div class="product-item__txtbox">
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.
@@ -47,7 +47,7 @@
 							<div class="product-item">
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>
 								<div class="product-item__img">
-									<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+									<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
 								</div>
 								<div class="product-item__txtbox">
 									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.
