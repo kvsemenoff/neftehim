@@ -10,8 +10,8 @@
 		
 	}
 	&__form{
-		input{
-			max-width: 265px !important;
+		input[type="text"]{
+			    background: rgba(0, 0, 0, 0) !important;
 		}
 	}
 	&_adress{
