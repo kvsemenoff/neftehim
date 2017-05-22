@@ -61,7 +61,6 @@
 			</div>
 		</div>
 	</div>
-</div>
 	<div class="n-footer">
 		<?php require_once('includes/footer.php'); ?>
 	</div>
