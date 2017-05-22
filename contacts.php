@@ -33,7 +33,7 @@
 					</div>
 					<div class="box">
 						<h2 class="h2 about__caption">Контакты склада</h2>
-						<div class="mape-wrap" id="mape-ofice"></div>
+						<div class="mape-wrap" id="mape-sclad"></div>
 						<div class="mape-info clearfix">
 							<div class="info info_left">
 								<span>Контакная информация</span>
