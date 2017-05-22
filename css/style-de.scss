@@ -1,0 +1,27 @@
+.service-page{
+	background: url(../img/service-bg.jpg) center/cover;
+	.box{
+		margin-bottom: 20px;
+		p{
+			padding-bottom: 18px;
+		}
+		p:last-child{
+			padding-bottom: 0;
+		}
+		&-descr{
+			font-size: 12px;
+			text-transform: uppercase;
+			color: #431f18;
+			display: block;
+			padding-left: 15px;
+		}
+	}
+}
+.docs{
+	padding-bottom: 15px;
+}
+.doc-wrap{
+	float: left;
+	width: 195px;
+	padding: 0 15px;
+}
