@@ -52,16 +52,19 @@
 				margin-right: 20px;
 			}
 			@media only screen and (min-width : 1240px) {
-				margin-right: 133px;
+				margin-right: 132px;
 			}
 			a{
-				font-size: 16px;
+				font-size: 13px;
 				font-weight: 400;
 				text-transform: uppercase;
 				text-decoration: none;
 				color: #431f18;
 				&:hover{
 					color:#F57107;
+				}
+				@media only screen and (min-width : 768px) {
+					font-size: 16px;
 				}
 			}
 		}

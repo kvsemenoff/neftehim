@@ -49,15 +49,18 @@
           margin-right: 20px; } }
       @media only screen and (min-width: 1240px) {
         .menu__wrap .main-menu li {
-          margin-right: 133px; } }
+          margin-right: 132px; } }
       .menu__wrap .main-menu li a {
-        font-size: 16px;
+        font-size: 13px;
         font-weight: 400;
         text-transform: uppercase;
         text-decoration: none;
         color: #431f18; }
         .menu__wrap .main-menu li a:hover {
           color: #F57107; }
+        @media only screen and (min-width: 768px) {
+          .menu__wrap .main-menu li a {
+            font-size: 16px; } }
     @media only screen and (min-width: 1240px) {
       .menu__wrap .main-menu li:last-child {
         margin-right: 0; } }
