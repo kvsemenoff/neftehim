@@ -1,5 +1,8 @@
 .service-page{
 	background: url(../img/service-bg.jpg) center/cover;
+	h2{
+		padding-bottom: 15px;
+	}
 	.box{
 		margin-bottom: 20px;
 		p{
@@ -71,6 +74,9 @@
 	}
 }
 .mape-page{
+	h2{
+		padding-bottom: 15px;
+	}
 	background: url(../img/mape-bg.jpg) center/cover;
 	.box{
 		margin-bottom: 20px;
@@ -120,5 +126,43 @@
 	a{
 		color: #431f18;
 		font-size: 12px;
+	}
+}
+.news-page{
+	background: url(../img/detailed_news.jpg) center/cover;
+	.container{
+		padding: 0;
+	}
+	.news-button{
+		padding-top: 15px;
+	}
+	.img-wrap{
+		float: right;
+		overflow: hidden;
+		width: 600px;
+		padding: 0 0 15px 15px;
+		img{
+			display: block;
+			width: 100%;
+			height: auto;
+		}
+		@media only screen and (max-width : 990px) {
+			float: none;
+			margin: 0 auto 15px;
+			width: 100%;
+			max-width: 600px;
+			padding: 0;
+		}
+	}
+	p{
+		font-size: 12px;
+		line-height: 20px;
+		color: #000;
+		padding-bottom: 20px;
+	}
+	.content__date{
+		display: block;
+		font-size: 10px;
+		color: #555;
 	}
 }
