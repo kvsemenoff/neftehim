@@ -78,17 +78,23 @@
 	text-align: center;
 	padding: 20px 60px;
 	display: none;
-	.fa-times{
+
+	.js-close{
 		cursor: pointer;
 		position: absolute;
-		top: 6px;
-		right: 7px;
+		display: inline-block;
+		top: 10px;
+		right: 10px;
 		font-size: 25px;
-		color: #f57107;
+		width: 16px;
+		height: 16px;
+		background: url("../img/close.png")no-repeat;
+		&:hover{
+			background: url("../img/close-active.png")no-repeat;
+		}
 	}
-}
 
-.modal-form{
+	.modal-form{
 	max-width: 420px;
 	input[type="text"], input[type="email"], .input-border{
 		margin-bottom: 20px;
@@ -97,3 +103,6 @@
 		float: right;
 	}
 }
+}
+
+

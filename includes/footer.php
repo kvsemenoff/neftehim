@@ -25,7 +25,7 @@
 	</div>
 </div>
 	<div class="js-window" id="js-form1">
-		<i class="fa fa-times js-close" aria-hidden="true"></i>
+		<span class="js-close"></span>
 		<form action="#" method="post" class="js-submit modal-form">
 			<input class="input-border" type="text"  placeholder="Ваше имя" name="uname">
 			<input class="input-border" type="email"  placeholder="Ваше E-mail" name="email">
@@ -35,7 +35,7 @@
 		</form>
 	</div>
 	<div class="js-window" id="js-form2">
-		<i class="fa fa-times js-close" aria-hidden="true"></i>
+		<span class="js-close"></span>
 		<h1>Спасибо за заявку.</h1>
 		<p>Наш менеджер свяжется с вами!</p>
 	</div>

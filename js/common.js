@@ -59,6 +59,7 @@ $(document).ready(function(){
 					$("input[type=text]").val("");
 					$("input[type=email]").val("");
 					$("input[type=hidden]").val("");
+					$("textarea").val("");
 					$('#js-mask').remove();
 					$('a[href=#js-form2]').trigger('click');
 				// location = "thanks.php";
