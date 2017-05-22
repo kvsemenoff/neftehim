@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="css/fonts.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<link rel="stylesheet" href="block/a/style.css">
+	<link rel="stylesheet" href="block/a/a.css">
 	<link rel="stylesheet" href="block/box/style.css">
 	<link rel="stylesheet" href="block/button/style.css">
 	<link rel="stylesheet" href="block/button-more/style.css">
