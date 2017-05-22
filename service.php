@@ -35,7 +35,7 @@
 							<p>Pellentesque tempus maximus mattis. Nulla vel nisl ut felis rutrum venenatis. Vivamus ac lacus interdum, posuere metus a, aliquam libero. Fusce rhoncus urna finibus felis egestas finibus. Aenean sagittis ultrices nisl, eu tincidunt urna condimentum a. Suspendisse non faucibus sem. Nunc non neque elit. Nunc faucibus aliquam malesuada. Donec lorem augue, vehicula quis libero at, volutpat posuere magna. Aenean viverra condimentum lorem, iaculis dignissim odio rutrum nec.</p>
 						</div>
 						<div class="box">
-							<h2 class="h2">ХРАНЕНИЕ НЕФТЕПРОДУКТОВ</h2>
+							<h2 class="h2">Документы</h2>
 							<div class="row">
 								<div class="docs clearfix">
 									<span class="box-descr">ОБРАЗЕЦ ДОГОВОРА</span>
