@@ -52,7 +52,8 @@
     .about__txtbox {
       width: 68%;
       float: right;
-      margin-bottom: 0px; } }
+      margin-bottom: 0px;
+      max-height: 570px; } }
   @media only screen and (min-width: 1200px) {
     .about__txtbox {
       max-width: 750px;
@@ -81,7 +82,8 @@
   @media only screen and (min-width: 990px) {
     .about__formbox {
       width: 30%;
-      float: left; } }
+      float: left;
+      max-height: 570px; } }
   @media only screen and (min-width: 1200px) {
     .about__formbox {
       max-width: 360px;
