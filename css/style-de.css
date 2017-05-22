@@ -19,10 +19,15 @@
 .mape-page { background: url(../img/mape-bg.jpg) center/cover; }
 .mape-page .box { margin-bottom: 20px; }
 .mape-page .mape-wrap { height: 500px; }
+.mape-page .mape-wrap ymaps { width: 100%; }
+@media only screen and (max-width: 990px) { .mape-page .mape-wrap { height: 400px; } }
+@media only screen and (max-width: 500px) { .mape-page .mape-wrap { height: 300px; } }
+@media only screen and (max-width: 400px) { .mape-page .mape-wrap { height: 250px; } }
 
 .mape-info { padding-top: 15px; }
-.mape-info .info_left { width: 390px; float: left; padding-right: 5px; }
-.mape-info .info_right { margin-left: 390px; }
+.mape-info .info_left { padding-right: 5px; }
+@media only screen and (min-width: 990px) { .mape-info .info_left { width: 390px; float: left; } }
+@media only screen and (min-width: 990px) { .mape-info .info_right { margin-left: 390px; } }
 .mape-info span { display: block; text-transform: uppercase; color: #431f18; font-size: 12px; padding-bottom: 10px; }
 .mape-info p { line-height: 20px; font-size: 12px; color: #000; }
-.mape-info a { color: #000; font-size: 12px; }
+.mape-info a { color: #431f18; font-size: 12px; }
