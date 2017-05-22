@@ -8,7 +8,7 @@
 		<div class="col-xs-12 col-sm-4 col-md-4">
 			<div class="header-box__right">
 				<span>8 499 <b>685 10 26</b></span><br/>
-				<button class="button">Оставте сообщение</button>
+				<button class="button">Оставьте сообщение</button>
 			</div>
 		</div>
 		<div class="clearfix"></div>
