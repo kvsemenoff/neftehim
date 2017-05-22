@@ -1,3 +1,9 @@
-
+.header-box__right span {
+  display: inline-block;
+  color: #421f18;
+  font-size: 30px;
+  font-weight: 400; }
+  .header-box__right span b {
+    color: #f57107; }
 
 /*# sourceMappingURL=style-dd.css.map */
