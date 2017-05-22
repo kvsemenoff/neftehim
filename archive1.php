@@ -92,9 +92,9 @@
 						<span class="news-item__date">19.04.2107</span>
 					</div>	
 					<div class="archive-pagination">
-						<a href="#" class="pagination__btn"></a>
+						<a href="#" class="pagination__btn pagination__btn_left"></a>
 						<span>2</span>
-						<a href="#" class="pagination__btn"></a>
+						<a href="#" class="pagination__btn pagination__btn_right"></a>
 					</div>
 			</div>
 		</div>
