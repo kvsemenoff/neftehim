@@ -48,7 +48,9 @@
   .menu__wrap .main-menu {
     display: none;
     text-align: center;
-    padding-bottom: 25px; }
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-between; }
     @media only screen and (min-width: 768px) {
       .menu__wrap .main-menu {
         display: block !important;
@@ -60,11 +62,7 @@
       margin: 10px 0px; }
       @media only screen and (min-width: 768px) {
         .menu__wrap .main-menu li {
-          display: inline-block;
-          margin-right: 10px; } }
-      @media only screen and (min-width: 1240px) {
-        .menu__wrap .main-menu li {
-          margin-right: 132px; } }
+          display: inline-block; } }
       .menu__wrap .main-menu li a {
         font-size: 15px;
         font-weight: 400;

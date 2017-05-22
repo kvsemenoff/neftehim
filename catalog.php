@@ -58,6 +58,10 @@
 									<a href="#" class="product-item__download">Скачать</a>
 								</div>
 							</div>
+
+							<div class="catalog-button">
+								<a href="#" class="button-more button-more_width"><span>ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span></a>
+							</div>
 						</div>
 					</div>
 

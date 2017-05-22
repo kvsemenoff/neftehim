@@ -54,11 +54,12 @@
 		display: none;
 		text-align: center;
 		padding-bottom: 25px;
-		// padding-top: 15px;
+		display: flex;
+    justify-content: space-between;
+
 		@media only screen and (min-width : 768px) {
 			display: block !important;
 			padding-bottom: 0;
-			// padding-top: 0;
 		}
 		@media only screen and (min-width : 992px) {
 			text-align: left;
@@ -67,10 +68,10 @@
 			margin: 10px 0px;
 			@media only screen and (min-width : 768px) {
 				display: inline-block;
-				margin-right: 10px;
+				// margin-right: 10px;
 			}
 			@media only screen and (min-width : 1240px) {
-				margin-right: 132px;
+				// margin-right: 132px;
 			}
 			a{
 				font-size: 15px;
@@ -100,4 +101,7 @@
 	background:url(../img/catimg.jpg) no-repeat top center;
 	background-size:cover;
 	width: 100%;
+}
+.catalog-button{
+	
 }
