@@ -1,3 +1,6 @@
+.header-box__left, .header-box__right {
+  padding: 20px 0px; }
+
 .header-box__right span {
   display: inline-block;
   color: #421f18;
@@ -5,5 +8,35 @@
   font-weight: 400; }
   .header-box__right span b {
     color: #f57107; }
+
+.menu__wrap {
+  background: url(../img/mw.jpg) no-repeat top center;
+  width: 100%;
+  background-size: cover; }
+  .menu__wrap .main-menu {
+    text-align: center; }
+    @media only screen and (min-width: 992px) {
+      .menu__wrap .main-menu {
+        text-align: left; } }
+    .menu__wrap .main-menu li {
+      margin: 15px 0px; }
+      @media only screen and (min-width: 768px) {
+        .menu__wrap .main-menu li {
+          display: inline-block;
+          margin-right: 20px; } }
+      @media only screen and (min-width: 1240px) {
+        .menu__wrap .main-menu li {
+          margin-right: 133px; } }
+      .menu__wrap .main-menu li a {
+        font-size: 16px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #431f18; }
+        .menu__wrap .main-menu li a:hover {
+          color: #F57107; }
+    @media only screen and (min-width: 1240px) {
+      .menu__wrap .main-menu li:last-child {
+        margin-right: 0; } }
 
 /*# sourceMappingURL=style-dd.css.map */

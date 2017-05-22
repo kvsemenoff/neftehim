@@ -1,3 +1,6 @@
+.header-box__left, .header-box__right{
+	padding: 20px 0px;
+}
 .header-box__right{
 	span{
 		display: inline-block;
@@ -6,6 +9,42 @@
 		font-weight: 400;
 		b{
 			color: #f57107;
+		}
+	}
+}
+.menu__wrap{
+	background:url(../img/mw.jpg) no-repeat top center;
+	width: 100%;
+	background-size:cover;
+	.main-menu{
+		text-align: center;
+		@media only screen and (min-width : 992px) {
+			text-align: left;
+		}
+		li{
+			margin: 15px 0px;
+			@media only screen and (min-width : 768px) {
+				display: inline-block;
+				margin-right: 20px;
+			}
+			@media only screen and (min-width : 1240px) {
+				margin-right: 133px;
+			}
+			a{
+				font-size: 16px;
+				font-weight: 400;
+				text-transform: uppercase;
+				text-decoration: none;
+				color: #431f18;
+				&:hover{
+					color:#F57107;
+				}
+			}
+		}
+		li:last-child{
+			@media only screen and (min-width : 1240px) {
+				margin-right: 0;
+			}
 		}
 	}
 }

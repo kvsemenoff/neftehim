@@ -1,9 +1,4 @@
 $(document).ready(function(){
-	// $(".doc").click(function(){
-	// 	alert(1);	
-	// });
-
-
 	$(".doc").fancybox(
 	{						
 		"padding" : 10,
@@ -19,5 +14,4 @@ $(document).ready(function(){
 		"hideOnContentClick" :false,
 		"centerOnScroll" : false
 	});
-
 });
