@@ -24,6 +24,7 @@
 		</div>
 	</div>
 </div>
+<!-- A MODAL WINDOW -->
 	<div class="js-window" id="js-form1">
 		<span class="js-close"></span>
 		<form action="#" method="post" class="js-submit modal-form">
@@ -39,8 +40,7 @@
 		<h1>Спасибо за заявку.</h1>
 		<p>Наш менеджер свяжется с вами!</p>
 	</div>
-<a href="#js-form1" class="js-modal">Модальное окно</a>
-<a href="#js-form2" class="js-modal">Модальное окно2</a>
+
 
 	<!-- JS_BLOCK -->
 	<script src="libs/jquery/jquery-1.11.1.min.js"></script>
