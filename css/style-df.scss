@@ -174,7 +174,24 @@
 }
 .bitumsblock{
 	padding: 14px 14px 20px 14px;
-	.product-item{
-		margin-bottom: 16px;
+	text-align: center;
+	.product-item{		
+		margin-bottom: 11px;		
+		@media only screen and (min-width : 1200px) {
+			margin-right: 19px;	
+		}	
+		.product-item__img{
+			margin-bottom: 6px;
+		}
 	}
+	.product-item_last{
+		margin-right: 0;
+	}	
+	.about__caption{
+		margin-bottom: 14px;
+		text-align: left;
+	}
+	.news-button{
+		margin-top: 10px;
+	}	
 }
