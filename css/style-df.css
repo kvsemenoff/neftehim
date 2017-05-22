@@ -26,4 +26,72 @@
   width: 100%;
   height: auto; }
 
+.aboutbackground {
+  background: url("../img/aboutbg.jpg") no-repeat top center;
+  background-size: cover;
+  padding: 19px 0;
+  margin-top: 15px; }
+
+.about__txtbox {
+  width: 100%;
+  padding: 18px 10px 20px 10px;
+  background-color: rgba(255, 255, 255, 0.65);
+  margin-bottom: 20px; }
+  .about__txtbox p {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    color: black;
+    margin-bottom: 23px; }
+    .about__txtbox p a {
+      color: #431f18; }
+      .about__txtbox p a:hover {
+        color: #f57107; }
+  @media only screen and (min-width: 990px) {
+    .about__txtbox {
+      width: 68%;
+      float: right;
+      padding: 18px 10px 40px 10px;
+      margin-bottom: 0px; } }
+  @media only screen and (min-width: 1200px) {
+    .about__txtbox {
+      max-width: 750px;
+      width: 100%; } }
+
+.about__caption {
+  color: #f57107;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-bottom: 12px; }
+
+.about__formbox {
+  float: left;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.65);
+  padding: 18px 10px 20px 10px;
+  text-align: right;
+  color: #555;
+  font-family: Arial;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 20px; }
+  @media only screen and (min-width: 990px) {
+    .about__formbox {
+      width: 30%;
+      float: left; } }
+  @media only screen and (min-width: 1200px) {
+    .about__formbox {
+      max-width: 360px;
+      width: 100%; } }
+  .about__formbox .about__caption {
+    text-align: left;
+    margin-bottom: 17px; }
+  .about__formbox input[type="text"] {
+    margin-bottom: 20px; }
+  .about__formbox input[type="submit"] {
+    margin-top: 13px; }
+
 /*# sourceMappingURL=style-df.css.map */
