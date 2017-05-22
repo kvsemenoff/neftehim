@@ -19,7 +19,7 @@
 					<input type="text" name="date" placeholder="Дата отгрузки">
 					<input type="text" name="contactface" placeholder="Контактное лицо">
 					<input type="text" name="contactinfo" placeholder="Контактная информация (E-mail, тел.)">
-					<textarea placeholder="Ваши комментарии"></textarea>
+					<textarea placeholder="Ваши комментарии" name="comment"></textarea>
 					<input type="submit" value="Отправить" name="submit">
 				</form>
 			</div>

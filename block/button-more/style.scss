@@ -5,8 +5,13 @@
 	text-align: right;	
 	position: relative;
 	background-color: #f57107;
-	overflow: hidden;
+	// overflow: hidden;
 	transition:0.5s;
+
+	background-image: url("../../img/arrow1.png");
+		background-repeat: no-repeat;
+		background-position: center left 5px;
+		padding-left: 40px;
 	span{
 		color: white;
 		font-family: Arial;
@@ -30,10 +35,11 @@
 		left:0;
 		width: 57px;
 		height: 100%;
-		background-color: #fff;
-		background-image: url("../../img/arrow1.png");
-		background-repeat: no-repeat;
-		background-position: center left 5px;
+		// background-color: #fff;
+		overflow: hidden;
+		// background-image: url("../../img/arrow1.png");
+		// background-repeat: no-repeat;
+		// background-position: center left 5px;
 		border-radius: 0 50px 50px 0;
 		z-index: 10;
 		transition:0.3s;
@@ -59,7 +65,7 @@
 	}
 	&:hover{
 		transition:0.5s;
-		&:before{ background-image: url("../../img/arrow2.png"); transition:0.3s; }
+		// &:before{ background-image: url("../../img/arrow2.png"); transition:0.3s; }
 		&:after{ width: 100%; border-radius: 0; }
 	}
 }
