@@ -2,19 +2,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<p>© 2017 ООО «НенфтеХимСинтез»</p>
-				<form class="search-box">
+				<p class="footer_copyright">© 2017 ООО «НенфтеХимСинтез»</p>
+				<form class="search-box footer_form">
 					<input type="text"  name="s">
 					<input type="submit" value="">
 				</form>
 			</div>
 			<div class="col-md-4">
-				<p><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
-				<p><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
+				<p class="footer_adress"><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
+				<p class="footer_adress"><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
 				
 			</div>
 			<div class="col-md-4">
-				<p>8 499 685 10 26 <br>
+				<p class="footer_mail">8 499 <span>685 10 26</span> <br>
 					<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
 				</p>
 			</div>
@@ -32,6 +32,8 @@
 	<script src="js/jquery.maskedinput.min.js"></script>
 	<script src="js/fonts.js"></script>
 	<script src="js/common.js"></script>
+	<script src="https://api-maps.yandex.ru/2.1/?lang=tr_TR" type="text/javascript"></script>
+	<script src="js/map.js"></script>
 	<script src="block/a/script.js"></script>
 	<script src="block/box/script.js"></script>
 	<script src="block/button/script.js"></script>
