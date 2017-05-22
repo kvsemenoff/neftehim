@@ -20,7 +20,7 @@
 					<input type="text" name="contactface" placeholder="Контактное лицо">
 					<input type="text" name="contactinfo" placeholder="Контактная информация (E-mail, тел.)">
 					<textarea placeholder="Ваши комментарии"></textarea>
-					<input type="submit" value="Отправить">
+					<input type="submit" value="Отправить" name="submit">
 				</form>
 			</div>
 			<div class="clearfix"></div>
