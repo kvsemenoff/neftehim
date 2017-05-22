@@ -1,7 +1,7 @@
 .button{
 	line-height: 1.7em;
 	text-align: center; 
-	border: 1px solid #a3938f;
+	border: 1px solid #421f18;
 	-webkit-border-radius: 40px; 
 	border-radius: 40px; 
 	background-color: transparent; 
@@ -9,4 +9,9 @@
 	text-transform: uppercase;
 	cursor: pointer;
 	color: #555555; 
+}
+.button:hover{
+	border-color: #f57107;
+	background-color: #F57107;
+	color: #ffffff;   
 }
