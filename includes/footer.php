@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<p>© 2017 ООО «НенфтеХимСинтез»</p>
+				<p class="footer_copyright">© 2017 ООО «НенфтеХимСинтез»</p>
 				<form class="search-box">
 					<input type="text"  name="s">
 					<input type="submit" value="">
