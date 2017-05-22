@@ -48,12 +48,11 @@
   .menu__wrap .main-menu {
     display: none;
     text-align: center;
-    padding-bottom: 25px;
-    display: flex;
-    justify-content: space-between; }
+    padding-bottom: 25px; }
     @media only screen and (min-width: 768px) {
       .menu__wrap .main-menu {
-        display: block !important;
+        display: flex !important;
+        justify-content: space-between;
         padding-bottom: 0; } }
     @media only screen and (min-width: 992px) {
       .menu__wrap .main-menu {
