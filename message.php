@@ -30,11 +30,12 @@ if (isset($uname)){
 if (isset($email)){
 	$msg .= "<p><strong>Email:</strong> ".$email."</p>\r\n";
 }
-if (isset($city)){
-	$msg .= "<p><strong>Город:</strong> ".$city."</p>\r\n";
-}
+
 if (isset($nameorg)){
 	$msg .= "<p><strong>Название организации:</strong> ".$city."</p>\r\n";
+}
+if (isset($city)){
+	$msg .= "<p><strong>Город:</strong> ".$city."</p>\r\n";
 }
 if (isset($nameprod)){
 	$msg .= "<p><strong>Наименование продукта:</strong> ".$nameprod."</p>\r\n";
@@ -50,6 +51,9 @@ if (isset($contactinfo)){
 }
 if (isset($text)){
 	$msg .= "<p><strong>Сообщение:</strong> ".$text."</p>\r\n";
+}
+if (isset($contactinfo)){
+	$msg .= "<p><strong>Контактная информация:</strong> ".$contactinfo."</p>\r\n";
 }
 if (isset($comment)){
 	$msg .= "<p><strong>Комментарий:</strong> ".$comment."</p>\r\n";
