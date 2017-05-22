@@ -1,32 +1,45 @@
+$(document).ready(function(){
+	ymaps.ready(init);
 
-ymaps.ready(init);
-var myMap, 
-myPlacemark;
-
-function init(){ 
-	myMap = new ymaps.Map("map", {
-		center: [55.75430171942093,37.762623379623356],
-		zoom: 16,
-		controls: []
-	},
-	{suppressMapOpenBlock: true}); 
-	
-	myPlacemark = new ymaps.Placemark([55.75430171942093,37.762623379623356], {
-		hintContent: '',
-		balloonContent: ''
-	}, {
-      // Опции.
-      // Необходимо указать данный тип макета.
-      iconLayout: 'default#image',
-      // Своё изображение иконки метки.
-      iconImageHref: 'img/map-ic.png',
-      // Размеры метки.
-      iconImageSize: [30, 35],
-      // Смещение левого верхнего угла иконки относительно
-      // её "ножки" (точки привязки).
-      iconImageOffset: [-5, -38]
-  }
-  );
-	myMap.behaviors.disable('scrollZoom');
-	myMap.geoObjects.add(myPlacemark);
-}
+	function init() {
+    var center = [55.72858056899627,37.454141999999955];
+    var center1 = [55.59113656911934,37.88662649999996];
+    var myMap1 = new ymaps.Map('mape-ofice', {
+        center: center,
+        controls: [],
+        zoom: 16
+    });
+    var myMap2 = new ymaps.Map('mape-sclad', {
+        center: center1,
+        controls: [],
+        zoom: 16
+    });
+    var myPlacemark1 = new ymaps.Placemark(center, {
+        // Свойства.
+        // Содержимое иконки, балуна и хинта.
+    	  balloonContent: 'улица Ивана Франко, 4к4',
+        hintContent: 'улица Ивана Франко, 4к4'
+    }, {
+        // Опции.
+        iconLayout: 'default#image',
+        iconImageHref: 'img/map-ic.png',
+        iconImageSize: [42, 42]
+        // preset: 'twirl#violetIcon'
+    });
+    var myPlacemark2 = new ymaps.Placemark(center, {
+        // Свойства.
+        // Содержимое иконки, балуна и хинта.
+        balloonContent: 'Колхозная улица, 4',
+        hintContent: 'Колхозная улица, 4'
+    }, {
+        // Опции.
+        // Стандартная фиолетовая иконка.
+        iconLayout: 'default#image',
+        iconImageHref: 'img/map-ic.png',
+        iconImageSize: [42, 42],
+        preset: 'twirl#violetIcon'
+    });
+    myMap1.geoObjects.add(myPlacemark1);
+    myMap2.geoObjects.add(myPlacemark2);
+	}
+});
