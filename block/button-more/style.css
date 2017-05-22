@@ -5,11 +5,8 @@
   text-align: right;
   position: relative;
   background-color: #f57107;
-  transition: 0.5s;
-  background-image: url("../../img/arrow1.png");
-  background-repeat: no-repeat;
-  background-position: center left 5px;
-  padding-left: 40px; }
+  overflow: hidden;
+  transition: 0.5s; }
   .button-more span {
     color: white;
     font-family: Arial;
@@ -29,10 +26,13 @@
     content: "";
     position: absolute;
     top: 0;
-    left: 0;
+    left: 0px;
     width: 57px;
     height: 100%;
-    overflow: hidden;
+    background-color: #fff;
+    background-image: url("../../img/arrow1.png");
+    background-repeat: no-repeat;
+    background-position: center left 5px;
     border-radius: 0 50px 50px 0;
     z-index: 10;
     transition: 0.3s; }
@@ -56,6 +56,9 @@
         width: 144px; } }
   .button-more:hover {
     transition: 0.5s; }
+    .button-more:hover:before {
+      background-image: url("../../img/arrow2.png");
+      transition: 0.3s; }
     .button-more:hover:after {
       width: 100%;
       border-radius: 0; }
