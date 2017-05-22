@@ -54,9 +54,6 @@
         display: flex !important;
         justify-content: space-between;
         padding-bottom: 0; } }
-    @media only screen and (min-width: 992px) {
-      .menu__wrap .main-menu {
-        text-align: left; } }
     .menu__wrap .main-menu li {
       margin: 10px 0px; }
       @media only screen and (min-width: 768px) {
@@ -83,5 +80,9 @@
   background: url(../img/catimg.jpg) no-repeat top center;
   background-size: cover;
   width: 100%; }
+
+.catalog-button {
+  text-align: center;
+  padding-top: 16px; }
 
 /*# sourceMappingURL=style-dd.css.map */
