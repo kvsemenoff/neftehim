@@ -9,4 +9,8 @@
 	text-transform: uppercase;
 	cursor: pointer;
 	color: #555555; 
+	&:hover{
+		color:#F57107;
+		border: 1px solid #F57107;
+	}
 }

@@ -1,6 +1,9 @@
 .header-box__left, .header-box__right{
 	padding: 20px 0px;
 }
+.header-box__left{
+	max-width: 391px;
+}
 .header-box__right{
 	@media only screen and (min-width : 768px) {
 		text-align: right;
@@ -46,10 +49,10 @@
 			text-align: left;
 		}
 		li{
-			margin: 15px 0px;
+			margin: 10px 0px;
 			@media only screen and (min-width : 768px) {
 				display: inline-block;
-				margin-right: 20px;
+				margin-right: 10px;
 			}
 			@media only screen and (min-width : 1240px) {
 				margin-right: 132px;
