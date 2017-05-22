@@ -132,4 +132,13 @@
 .news-button {
   text-align: center; }
 
+.bitumsbgimg {
+  background: url("../img/bityumbg.jpg") no-repeat center;
+  background-size: cover; }
+
+.bitumsblock {
+  padding: 14px 14px 20px 14px; }
+  .bitumsblock .product-item {
+    margin-bottom: 16px; }
+
 /*# sourceMappingURL=style-df.css.map */

@@ -14,7 +14,7 @@
 	<div class="n-content">
 		<div class="n-content-inner vertical-align newsbgimg">	
 			<div class="container newsbg">				
-				<h2 class="h2 about__caption">НОВОСТИ</h2>
+				<h1 class="h2 about__caption">НОВОСТИ</h1>
 				<div class="news">		
 					<div class="news-item">
 						<a href="#" class="news-item__caption">НАЗВАНИЕ НОВОСТИ</a>
