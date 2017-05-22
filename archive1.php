@@ -91,7 +91,11 @@
 						<a href="#" class="news-item__txt">Vivamus dictum erat urna, id tincidunt turpis tempor nec. Phasellus ultrices sapien eget accumsan vehicula. Praesent metus mauris, placerat a odio vitae, fermentum sagittis diam. Vivamus vitae gravida ante. Duis et luctus nunc. Proin volutpat </a>
 						<span class="news-item__date">19.04.2107</span>
 					</div>	
-					<div class="news-button"><a href="#" class="button-more button-more_width"><span>БОЛЬШЕ МАТЕРИАЛОВ</span></a></div>
+					<div class="archive-pagination">
+						<a href="#" class="pagination__btn"></a>
+						<span>2</span>
+						<a href="#" class="pagination__btn"></a>
+					</div>
 			</div>
 		</div>
 	</div>
