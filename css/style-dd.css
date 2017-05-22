@@ -1,6 +1,9 @@
 .header-box__left, .header-box__right {
   padding: 20px 0px; }
 
+@media only screen and (min-width: 768px) {
+  .header-box__right {
+    text-align: right; } }
 .header-box__right span {
   display: inline-block;
   color: #421f18;
@@ -9,12 +12,32 @@
   .header-box__right span b {
     color: #f57107; }
 
-.menu__wrap {
+.menu__mobile {
   background: url(../img/mw.jpg) no-repeat top center;
   width: 100%;
+  background-size: cover;
+  padding: 10px 0px; }
+  @media only screen and (min-width: 768px) {
+    .menu__mobile {
+      display: none; } }
+  .menu__mobile .fa-bars {
+    font-size: 25px;
+    cursor: pointer; }
+
+.menu__wrap {
+  background: #E7E7E7;
+  width: 100%;
   background-size: cover; }
+  @media only screen and (min-width: 768px) {
+    .menu__wrap {
+      background: url(../img/mw.jpg) no-repeat top center;
+      background-size: cover; } }
   .menu__wrap .main-menu {
+    display: none;
     text-align: center; }
+    @media only screen and (min-width: 768px) {
+      .menu__wrap .main-menu {
+        display: block !important; } }
     @media only screen and (min-width: 992px) {
       .menu__wrap .main-menu {
         text-align: left; } }

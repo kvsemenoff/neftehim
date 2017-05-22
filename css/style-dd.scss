@@ -2,6 +2,9 @@
 	padding: 20px 0px;
 }
 .header-box__right{
+	@media only screen and (min-width : 768px) {
+		text-align: right;
+	}
 	span{
 		display: inline-block;
 		color: #421f18;
@@ -12,12 +15,33 @@
 		}
 	}
 }
-.menu__wrap{
+.menu__mobile{
 	background:url(../img/mw.jpg) no-repeat top center;
 	width: 100%;
 	background-size:cover;
+	padding: 10px 0px;
+	@media only screen and (min-width : 768px) {
+		display: none;
+	}
+	.fa-bars{
+		font-size: 25px;
+		cursor: pointer;
+	}
+}
+.menu__wrap{
+	background:#E7E7E7;
+	width: 100%;
+	background-size:cover;
+	@media only screen and (min-width : 768px) {
+		background:url(../img/mw.jpg) no-repeat top center;
+			background-size:cover;
+	}
 	.main-menu{
+		display: none;
 		text-align: center;
+		@media only screen and (min-width : 768px) {
+			display: block !important;
+		}
 		@media only screen and (min-width : 992px) {
 			text-align: left;
 		}

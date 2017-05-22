@@ -15,6 +15,10 @@
 	</div>
 </div>
 
+<div class="menu__mobile">
+	<div class="container"><i class="fa fa-bars" aria-hidden="true"></i></div>
+</div>
+
 <div class="menu__wrap">
 	<div class="container">
 		<ul class="main-menu">
