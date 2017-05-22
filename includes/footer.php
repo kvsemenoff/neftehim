@@ -32,6 +32,7 @@
 	<script src="js/jquery.maskedinput.min.js"></script>
 	<script src="js/fonts.js"></script>
 	<script src="js/common.js"></script>
+	<script src="js/map.js"></script>
 	<script src="block/a/script.js"></script>
 	<script src="block/box/script.js"></script>
 	<script src="block/button/script.js"></script>
