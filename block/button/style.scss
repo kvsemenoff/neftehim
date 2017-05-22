@@ -8,17 +8,10 @@
 	font-size: 16px;  
 	text-transform: uppercase;
 	cursor: pointer;
-	color: #555555; 
-<<<<<<< HEAD:block/button/button.scss
+	color: #555555;
+	transition: 0.3s;
 }
 .button:hover{
 	border-color: #f57107;
-	background-color: #F57107;
-	color: #ffffff;   
-=======
-	&:hover{
-		color:#F57107;
-		border: 1px solid #F57107;
-	}
->>>>>>> caec0c0bd67e84cb7d06a101bf2588388e51d437:block/button/style.scss
+	color: #f57107;
 }
