@@ -13,8 +13,12 @@
 			text-align: left;
 		}
 	}
-	&__form{
+	&_form{
 		max-width: 265px;
+		margin: 0 auto;
+		@media only screen and (min-width : 992px) {
+			margin: unset;
+		}
 		input[type="text"]{
 			background: rgba(0, 0, 0, 0) !important;
 		}
@@ -48,7 +52,8 @@
 			color: #f57107;
 		}
 	}
-	a{
+	a{	
+		color:#555 !important;
 		margin-top: 10px;
 		display: inline-block;
 	}
