@@ -17,7 +17,7 @@
 					
 				</div>
 				<div class="col-md-4">
-					<p class="footer_mail"><span>8 499 <span>685 10 26</span></span><br>
+					<p class="footer_mail">8 499 <span>685 10 26</span><br>
 						<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
 					</p>
 				</div>
