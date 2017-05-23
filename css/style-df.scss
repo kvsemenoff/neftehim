@@ -156,16 +156,11 @@
 	.news-item:nth-child(3n){ 
 		@media only screen and (min-width : 990px) {			
 			margin-right: 0;
+			float: right;
 		}			
 	}	
-
-
 }
-// .paddingrightnone{		
-// 	@media only screen and (min-width : 1200px) {
-// 		// padding-right: 0;
-// 	}
-// }
+
 
 .newsbgimg{
 	background: url("../img/newsbg.jpg")no-repeat center;
