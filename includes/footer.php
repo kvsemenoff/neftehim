@@ -1,24 +1,26 @@
 <div class="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
-				<p class="footer_copyright">© 2017 ООО «НенфтеХимСинтез»</p>
-				<div class="footer_form">
-					<form class="search-box">
-						<input type="text"  name="s">
-						<input type="submit" value="">
-					</form>
+			<div class="footer_box">
+				<div class="col-md-4">
+					<p class="footer_copyright">© 2017 ООО «НенфтеХимСинтез»</p>
+					<div class="footer_form">
+						<form class="search-box">
+							<input type="text"  name="s">
+							<input type="submit" value="">
+						</form>
+					</div>
 				</div>
-			</div>
-			<div class="col-md-4">
-				<p class="footer_adress"><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
-				<p class="footer_adress"><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
-				
-			</div>
-			<div class="col-md-4">
-				<p class="footer_mail">8 499 <span>685 10 26</span> <br>
-					<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
-				</p>
+				<div class="col-md-4">
+					<p class="footer_adress"><span>ОФИС</span> г.Москва, ул.Ивана Франко, д.4, корп.1.</p>
+					<p class="footer_adress"><span>СКЛАД</span> МО, г.Лыткарино, ул.Колхозная, д.4.</p>
+					
+				</div>
+				<div class="col-md-4">
+					<p class="footer_mail"><span>8 499 <span>685 10 26</span></span><br>
+						<a href="mailto:info@n-h-s.ru">info@n-h-s.ru</a>
+					</p>
+				</div>
 			</div>
 			<div class="clearfix"></div>
 		</div>
