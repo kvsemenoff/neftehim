@@ -20,5 +20,5 @@
 				<a href="#" class="button-more button-more_width"><span>НЕФТЕХИМИЯ</span></a>
 			</div>
 		</div>
-	
+		<div class="clearfix"></div>
 </div>
