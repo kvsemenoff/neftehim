@@ -5,7 +5,7 @@ input[type="text"] {
   padding-left: 15px;
   padding-right: 15px;
   height: 30px;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 400;
   line-height: 30px;
   color: #555555; }
@@ -17,7 +17,7 @@ input[type="email"] {
   padding-left: 15px;
   padding-right: 15px;
   height: 30px;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 400;
   line-height: 30px;
   color: #555555; }
@@ -29,7 +29,7 @@ textarea {
   outline: none;
   padding-left: 15px;
   padding-top: 5px;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 400;
   line-height: 30px;
   color: #555555;

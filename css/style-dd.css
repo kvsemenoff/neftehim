@@ -21,7 +21,8 @@
     display: inline-block;
     color: #421f18;
     font-size: 30px;
-    font-weight: 400; }
+    font-weight: 400;
+    padding-bottom: 15px; }
     .header-box__right span b {
       color: #f57107; }
 
