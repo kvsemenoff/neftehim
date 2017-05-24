@@ -20,7 +20,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
+										<img src="../../img/news-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
 									</p>	
@@ -38,7 +38,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
+										<img src="../../img/news-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
@@ -57,7 +57,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item1.jpg" data-fancybox-group="group"><img src="../../img/news-item1.jpg" alt=""></a>
+										<img src="../../img/news-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -84,7 +84,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
 									</p>	
@@ -102,7 +102,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
@@ -121,7 +121,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -139,7 +139,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
 									</p>	
@@ -157,7 +157,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -175,7 +175,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -193,7 +193,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
 									</p>	
@@ -211,7 +211,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -229,7 +229,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
+										<img src="../../img/product-item1.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
@@ -258,7 +258,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item2.jpg" data-fancybox-group="group"><img src="../../img/news-item2.jpg" alt=""></a>
+										<img src="../../img/news-item2.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
 									</p>	
@@ -276,7 +276,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item2.jpg" data-fancybox-group="group"><img src="../../img/news-item2.jpg" alt=""></a>
+										<img src="../../img/news-item2.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.									
 									</p>	
@@ -294,7 +294,7 @@
 								<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 								<div class="product-item__txtbox">	
 									<div class="product-item__img">
-										<a href="../../img/news-item2.jpg" data-fancybox-group="group"><img src="../../img/news-item2.jpg" alt=""></a>
+										<img src="../../img/news-item2.jpg" alt="">
 									</div>		
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
 									</p>	
