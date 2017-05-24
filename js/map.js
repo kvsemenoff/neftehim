@@ -9,11 +9,14 @@ $(document).ready(function(){
         controls: [],
         zoom: 16
     });
+   
+    myMap1.behaviors.disable('scrollZoom');
     var myMap2 = new ymaps.Map('mape-sclad', {
         center: center1,
         controls: [],
         zoom: 16
     });
+    myMap2.behaviors.disable('scrollZoom');
     var myPlacemark1 = new ymaps.Placemark(center, {
         // Свойства.
         // Содержимое иконки, балуна и хинта.
