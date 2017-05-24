@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="css/fonts.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<link rel="stylesheet" href="block/a/a.css">
+	<link rel="stylesheet" href="block/a/style.css">
 	<link rel="stylesheet" href="block/box/style.css">
 	<link rel="stylesheet" href="block/button/style.css">
 	<link rel="stylesheet" href="block/button-more/style.css">
@@ -25,15 +25,14 @@
 	<link rel="stylesheet" href="block/textarea/style.css">
 
 
-	<link rel="stylesheet" href="css/style-db.css">
-	<link rel="stylesheet" href="css/style-dc.css">
+	<link rel="stylesheet" href="css/style-db.css">	
 	<link rel="stylesheet" href="css/style-dd.css">
 	<link rel="stylesheet" href="css/style-de.css">
 	<link rel="stylesheet" href="css/style-df.css">
 	<link rel="stylesheet" href="css/style-dg.css">
-	<link rel="stylesheet" href="css/style-dh.css">
-	<link rel="stylesheet" href="css/style-di.css">
-	<link rel="stylesheet" href="css/style-dj.css">
+	
+	
+	
 	
 
 </head>
