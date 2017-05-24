@@ -41,28 +41,28 @@
 									<span class="box-descr">ОБРАЗЕЦ ДОГОВОРА</span>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
-											<a class="doc" rel="single"	href="../../img/doc.jpg">Посмотреть</a> <a href="#">Скачать</a>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg">Посмотреть</a> <a href="#">Скачать</a>
 										</div>
 									</div>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
 										</div>
 									</div>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
 										</div>
 									</div>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
 										</div>
 									</div>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
 										</div>
 									</div>
 								</div>
@@ -70,8 +70,8 @@
 									<span class="box-descr">ОБРАЗЕЦ Приложения</span>
 									<div class="doc-wrap">
 										<div class="doc-item">
-											<a class="doc" rel="single"	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
-											<a class="doc" rel="single"	href="../../img/doc.jpg">Посмотреть</a> <a href="#">Скачать</a>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
+											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg">Посмотреть</a> <a href="#">Скачать</a>
 										</div>
 									</div>
 								</div>
