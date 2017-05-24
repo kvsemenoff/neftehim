@@ -18,7 +18,8 @@
       text-transform: uppercase;
       color: #431f18;
       display: block;
-      padding-left: 15px; }
+      padding-left: 15px;
+      font-weight: 700; }
 
 .docs {
   padding-bottom: 15px; }
