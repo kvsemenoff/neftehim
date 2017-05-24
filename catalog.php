@@ -74,7 +74,7 @@
 
 							<div class="catalog-button catalog-button1">			
 
-								<a href="#" class="button-more button-more_width">
+								<a href="#" class="button-more button-more_width js-button_1">
 									<span class="button-more__bg">
 										<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>
 									</span>
@@ -255,7 +255,7 @@
 
 							<div class="catalog-button">				
 
-								<a href="#" class="button-more button-more_width">
+								<a href="#" class="button-more button-more_width js-button2">
 									<span class="button-more__bg">
 										<span class="button-more__txt">СВЕРНУТЬ КАТАЛОГ</span>
 									</span>
@@ -263,6 +263,7 @@
 							</div>
 
 						</div>
+						<!-- ================================================ -->
 						
 						<div class="box box3">
 							<h2 class="h2">Нефтехимия</h2>

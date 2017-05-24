@@ -1,11 +1,23 @@
 $(document).ready(function(){
 	$(".js-phone").mask("+7 (999) 999 - 99 - 99?");
 	// Мобильное меню 
-	$(".fa-bars").click(function(e){
-		e.preventDefault();
+	$(".fa-bars").click(function(m){
+		m.preventDefault();
 		$(".main-menu").slideToggle(500);
 	});
 	// Конец Мобильное меню
+
+	// вывод блока в каталоге 
+	$(".js-button_1").click(function(z){
+		z.preventDefault();
+		$(".box2").slideToggle(500);
+	});
+	$(".js-button2").click(function(q){
+		q.preventDefault();
+		// $(".box2").css("display","none");
+		$(".box2").slideUp(500);
+	});
+	// Конец вывод блока в каталоге
 
 	/*MODAL WINDOW*/
 	$('a.js-modal').on("click", function(e){
