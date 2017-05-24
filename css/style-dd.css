@@ -81,6 +81,8 @@
   background: url(../img/catimg.jpg) no-repeat top center;
   background-size: cover;
   width: 100%; }
+  .catalog-wrap .product-item {
+    padding-right: 25px; }
 
 .catalog-button {
   text-align: center;
