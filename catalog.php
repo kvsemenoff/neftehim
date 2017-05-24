@@ -13,7 +13,7 @@
 			<div class="n-content-inner vertical-align">	
 				<div class="catalog-wrap">
 					<div class="container">
-						<div class="box">
+						<div class="box box1">
 							<h2 class="h2">Парафино-восковая продукция</h2>
 
 							<div class="product-item">
@@ -81,6 +81,8 @@
 								</a>
 							</div>
 						</div>
+
+                        <!-- ============================================== -->
 
 						<div class="box box2">
 							<h2 class="h2">Битумы и мазуты</h2>
