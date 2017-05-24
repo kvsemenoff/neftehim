@@ -1,5 +1,6 @@
 .product-section{
 	text-align: center;
+	margin-top: 20px;
 	@media only screen and (min-width : 1200px) {
 		text-align: left;	
 	}
@@ -9,18 +10,22 @@
 	max-width: 360px;
 	width: 100%;
 	margin-bottom: 20px;	
+	text-align: right;
 	@media only screen and (min-width : 990px) {
 		max-width: 300px;
 		margin-right: 5px;
 		margin-bottom: 0;
 	}
 	@media only screen and (min-width : 1200px) {
-		margin-right: 23px;
+		margin-right: 25px;
 		max-width: 360px;
 	}
 }
 .product-section__box_last{
-	margin-right: 0;
+	margin-right: 0;	
+	@media only screen and (min-width : 990px) {
+		float: right;
+	}
 }
 
 .product-section__img{
@@ -46,6 +51,7 @@
 	padding: 18px 10px 20px 10px;
 	background-color: rgba(#fff, 0.65);
 	margin-bottom: 20px;
+	overflow: hidden;
 	p{
 		font-family: Arial;
 		font-size: 12px;
@@ -53,6 +59,7 @@
 		line-height: 20px;
 		color: black;
 		margin-bottom: 23px;
+		text-align: justify;
 		a{
 			color: #431f18;
 			&:hover{ color:#f57107; }
@@ -62,7 +69,7 @@
 		width: 68%;
 		float: right;		
 		margin-bottom: 0px;
-		max-height: 570px;
+		max-height: 569px;
 	}
 	@media only screen and (min-width : 1200px) {
 		max-width: 750px;
@@ -95,7 +102,7 @@
 	@media only screen and (min-width : 990px) {
 		width: 30%;
 		float: left;
-		max-height: 570px;
+		max-height: 575px;
 	}
 	@media only screen and (min-width : 1200px) {		
 		max-width: 360px;
@@ -107,7 +114,19 @@
 	}
 	input[type="text"]{
 		margin-bottom: 20px;
-	}	
+		font-size: 11px;
+	}
+	textarea{ font-size: 11px; }
+	input[type="text"]::-webkit-input-placeholder {color: #555;}
+	input[type="text"]::-moz-placeholder          {color: #555;}
+	input[type="text"]:-moz-placeholder           {color: #555;}
+	input[type="text"]:-ms-input-placeholder      {color: #555;}
+
+	textarea::-webkit-input-placeholder {color: #555;}
+	textarea::-moz-placeholder          {color: #555;}
+	textarea:-moz-placeholder           {color: #555;}
+	textarea:-ms-input-placeholder      {color: #555;}
+
 	input[type="submit"]{
 		margin-top: 13px;
 	}
@@ -137,16 +156,11 @@
 	.news-item:nth-child(3n){ 
 		@media only screen and (min-width : 990px) {			
 			margin-right: 0;
+			float: right;
 		}			
 	}	
-
-
 }
-// .paddingrightnone{		
-// 	@media only screen and (min-width : 1200px) {
-// 		// padding-right: 0;
-// 	}
-// }
+
 
 .newsbgimg{
 	background: url("../img/newsbg.jpg")no-repeat center;
@@ -175,6 +189,9 @@
 .bitumsblock{
 	padding: 14px 14px 20px 14px;
 	text-align: center;
+	@media only screen and (min-width : 770px) {
+		text-align: justify;
+	}
 	.product-item{		
 		margin-bottom: 11px;		
 		@media only screen and (min-width : 1200px) {

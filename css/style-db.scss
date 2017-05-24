@@ -50,9 +50,12 @@
 		}
 		span{
 			color: #f57107;
+			display: inline-block;
 		}
+		
 	}
 	a{	
+		text-decoration: underline;
 		color:#555 !important;
 		margin-top: 10px;
 		display: inline-block;
@@ -95,14 +98,14 @@
 	}
 
 	.modal-form{
-	max-width: 420px;
-	input[type="text"], input[type="email"], .input-border{
-		margin-bottom: 20px;
+		max-width: 420px;
+		input[type="text"], input[type="email"], .input-border{
+			margin-bottom: 20px;
+		}
+		input[type="submit"]{
+			float: right;
+		}
 	}
-	input[type="submit"]{
-		float: right;
-	}
-}
 }
 
 
