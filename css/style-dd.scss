@@ -24,6 +24,7 @@
 		color: #421f18;
 		font-size: 30px;
 		font-weight: 400;
+		padding-bottom: 15px;
 		b{
 			color: #f57107;
 		}
@@ -92,6 +93,9 @@
 	background:url(../img/catimg.jpg) no-repeat top center;
 	background-size:cover;
 	width: 100%;
+	.product-item{
+		padding-right: 25px;	
+	}
 }
 .catalog-button{
 	text-align: center;
