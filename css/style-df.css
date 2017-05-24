@@ -128,6 +128,9 @@
     margin: 0 auto;
     margin-bottom: 20px;
     vertical-align: top; }
+    .news .news-item .news-item__date {
+      margin: 20px 0;
+      display: inline-block; }
     @media only screen and (min-width: 990px) {
       .news .news-item {
         margin-right: 15px;

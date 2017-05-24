@@ -178,8 +178,15 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					<div class="news-button"><a href="#" class="button-more button-more_width"><span>ПЕРЕЙТИ К ПОЛНОМУ КАТАЛОГУ ПРОДУКЦИИ</span></a></div>
+					
+					<div class="news-button">
+						<a href="#" class="button-more button-more_width">
+							<span class="button-more__bg">
+								<span class="button-more__txt">ПЕРЕЙТИ К ПОЛНОМУ КАТАЛОГУ ПРОДУКЦИИ</span>
+							</span>
+						</a>
+					</div>
+					
 				</div>
 			</div>
 		</div>

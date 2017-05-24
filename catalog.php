@@ -72,8 +72,13 @@
 								<div class="clearfix"></div>
 							</div>
 
-							<div class="catalog-button catalog-button1">
-								<a href="#" class="button-more button-more_width"><span>ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span></a>
+							<div class="catalog-button catalog-button1">			
+
+								<a href="#" class="button-more button-more_width">
+									<span class="button-more__bg">
+										<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>
+									</span>
+								</a>
 							</div>
 						</div>
 
@@ -246,8 +251,13 @@
 
 
 
-							<div class="catalog-button">
-								<a href="#" class="button-more button-more_width"><span>СВЕРНУТЬ КАТАЛОГ</span></a>
+							<div class="catalog-button">				
+
+								<a href="#" class="button-more button-more_width">
+									<span class="button-more__bg">
+										<span class="button-more__txt">СВЕРНУТЬ КАТАЛОГ</span>
+									</span>
+								</a>
 							</div>
 
 						</div>
@@ -310,7 +320,11 @@
 							</div>
 
 							<div class="catalog-button catalog-button2">
-								<a href="#" class="button-more button-more_width"><span>ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span></a>
+								<a href="#" class="button-more button-more_width">
+									<span class="button-more__bg">
+										<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>
+									</span>
+								</a>
 							</div>
 						</div>
 					</div>
