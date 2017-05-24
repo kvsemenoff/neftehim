@@ -39,4 +39,28 @@ textarea {
 .input-border {
   border: 1px solid #431F18 !important; }
 
+input[type="text"]::-webkit-input-placeholder {
+  color: #555; }
+
+input[type="text"]::-moz-placeholder {
+  color: #555; }
+
+input[type="text"]:-moz-placeholder {
+  color: #555; }
+
+input[type="text"]:-ms-input-placeholder {
+  color: #555; }
+
+textarea::-webkit-input-placeholder {
+  color: #555; }
+
+textarea::-moz-placeholder {
+  color: #555; }
+
+textarea:-moz-placeholder {
+  color: #555; }
+
+textarea:-ms-input-placeholder {
+  color: #555; }
+
 /*# sourceMappingURL=style.css.map */

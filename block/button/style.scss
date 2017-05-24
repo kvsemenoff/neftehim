@@ -1,7 +1,8 @@
 .button{
 	display: inline-block;
-	line-height: 2em;
-	padding: 2px; 
+	line-height: 37px;
+	width: 214px;
+	height: 34px;
 	text-align: center; 
 	border: 1px solid #421f18;
 	-webkit-border-radius: 40px; 
@@ -12,8 +13,6 @@
 	cursor: pointer;
 	color: #555555;
 	transition: 0.3s;
-	padding-left: 6px;
-	padding-right: 6px;
 }
 .button:hover{
 	border-color: #f57107;

@@ -72,7 +72,7 @@
 								<div class="clearfix"></div>
 							</div>
 
-							<div class="catalog-button">
+							<div class="catalog-button catalog-button1">
 								<a href="#" class="button-more button-more_width"><span>ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span></a>
 							</div>
 						</div>
@@ -309,7 +309,7 @@
 								<div class="clearfix"></div>
 							</div>
 
-							<div class="catalog-button">
+							<div class="catalog-button catalog-button2">
 								<a href="#" class="button-more button-more_width"><span>ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span></a>
 							</div>
 						</div>

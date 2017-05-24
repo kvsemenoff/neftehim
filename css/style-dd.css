@@ -22,7 +22,7 @@
     color: #421f18;
     font-size: 30px;
     font-weight: 400;
-    padding-bottom: 15px; }
+    padding-bottom: 10px; }
     .header-box__right span b {
       color: #f57107; }
 
@@ -85,8 +85,13 @@
     padding-right: 25px; }
 
 .catalog-button {
-  text-align: center;
-  padding-top: 16px; }
+  text-align: center; }
+
+.catalog-button1 {
+  padding-top: 20px; }
+
+.catalog-button2 {
+  padding-top: 20px; }
 
 .box .h2 {
   padding-bottom: 15px; }
