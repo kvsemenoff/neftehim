@@ -166,6 +166,9 @@
 .bitumsblock {
   padding: 14px 14px 20px 14px;
   text-align: center; }
+  @media only screen and (min-width: 770px) {
+    .bitumsblock {
+      text-align: justify; } }
   .bitumsblock .product-item {
     margin-bottom: 11px; }
     @media only screen and (min-width: 1200px) {

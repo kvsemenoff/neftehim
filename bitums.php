@@ -15,8 +15,6 @@
 			<div class="n-content-inner vertical-align bitumsbgimg">	
 				<div class="container newsbg bitumsblock">				
 					<h1 class="h2 about__caption">БИТУМЫ И МАЗУТЫ</h1>
-
-
 					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
@@ -180,11 +178,6 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-
-					
-
-
-
 
 					<div class="news-button"><a href="#" class="button-more button-more_width"><span>ПЕРЕЙТИ К ПОЛНОМУ КАТАЛОГУ ПРОДУКЦИИ</span></a></div>
 				</div>
