@@ -8,9 +8,9 @@
   font-family: Arial;
   font-size: 12px;
   font-weight: 600;
-  line-height: 14px;
+  line-height: 12px;
   display: inline-block;
-  min-height: 25px;
+  min-height: 28px;
   text-decoration: none;
   margin-bottom: 5px;
   vertical-align: top; }
@@ -30,7 +30,8 @@
   font-weight: 400;
   line-height: 20px;
   display: block;
-  text-decoration: none; }
+  text-decoration: none;
+  text-align: justify; }
   .news-item__txt:hover {
     text-decoration: underline; }
 
