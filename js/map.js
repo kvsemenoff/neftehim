@@ -7,14 +7,16 @@ $(document).ready(function(){
     var myMap1 = new ymaps.Map('mape-ofice', {
         center: center,
         controls: [],
-        zoom: 16
+        zoom: 16,      
+
     });
-   
+    
     myMap1.behaviors.disable('scrollZoom');
     var myMap2 = new ymaps.Map('mape-sclad', {
         center: center1,
         controls: [],
-        zoom: 16
+        zoom: 16,
+       
     });
     myMap2.behaviors.disable('scrollZoom');
     var myPlacemark1 = new ymaps.Placemark(center, {
