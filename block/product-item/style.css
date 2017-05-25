@@ -30,7 +30,7 @@
   width: 100%;
   display: inline-block;
   vertical-align: top;
-  margin-right: 12px;
+  margin-right: 15px;
   float: left; }
   @media only screen and (min-width: 1200px) {
     .product-item__img {
@@ -64,7 +64,7 @@
     margin: 0; }
 
 .product-item__buttons {
-  margin-top: 4px;
+  margin-top: 6px;
   text-align: center; }
   @media only screen and (min-width: 480px) {
     .product-item__buttons {
@@ -76,7 +76,7 @@
     .product-item__boxbuttons {
       float: right;
       display: inline-block;
-      padding-right: 20px;
+      padding-right: 3px;
       padding-top: 0px; } }
 
 .product-item__pasport {

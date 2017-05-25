@@ -32,7 +32,8 @@
     z-index: 99; }
     @media only screen and (min-width: 480px) {
       .button-more .button-more__txt {
-        font-size: 16px; } }
+        font-size: 16px;
+        right: 17px; } }
   .button-more:before {
     content: "";
     position: absolute;

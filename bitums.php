@@ -40,7 +40,7 @@
 								<a href="../../img/product-item1.jpg" data-fancybox-group="group"><img src="../../img/product-item1.jpg" alt=""></a>
 							</div>		
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.	
+								
 							</p>	
 						</div>
 						<div class="product-item__buttons">
@@ -52,7 +52,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item product-item_last">
+					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -106,7 +106,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item product-item_last">
+					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -160,7 +160,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item product-item_last">
+					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">

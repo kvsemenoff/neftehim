@@ -48,7 +48,7 @@
 .about__txtbox{
 	// max-width: 750px;
 	width: 100%;	
-	padding: 18px 10px 20px 10px;
+	padding: 18px 15px 20px 15px;
 	background-color: rgba(#fff, 0.65);
 	margin-bottom: 20px;
 	overflow: hidden;
@@ -69,12 +69,12 @@
 		width: 68%;
 		float: right;		
 		margin-bottom: 0px;
-		max-height: 569px;
+		height: 569px;
 	}
 	@media only screen and (min-width : 1200px) {
 		max-width: 750px;
 		width: 100%;
-		padding: 18px 10px 40px 10px;
+		padding-bottom:40px;
 	}
 }
 .about__caption{
@@ -92,7 +92,7 @@
 	// max-width: 360px;
 	width: 100%;
 	background-color: rgba(#fff, 0.65);
-	padding: 18px 10px 20px 10px;
+	padding: 18px 15px 20px 15px;
 	text-align: right;
 	color: #555;
 	font-family: Arial;
@@ -142,7 +142,7 @@
 		margin-bottom: 20px;
 		vertical-align: top;		
 		.news-item__date{
-			margin: 20px 0;
+			// margin: 20px 0;
 			display: inline-block;
 		}		
 		@media only screen and (min-width : 990px) {
@@ -191,15 +191,19 @@
 	background-size: cover;
 }
 .bitumsblock{
-	padding: 14px 14px 20px 14px;
+	padding: 17px 14px 20px 14px;
 	text-align: center;
 	@media only screen and (min-width : 770px) {
-		text-align: justify;
+		text-align: left;
 	}
 	.product-item{		
-		margin-bottom: 11px;		
+		margin-bottom: 12px;
+		@media only screen and (min-width : 990px) {
+			padding-right: 11px;
+		}		
 		@media only screen and (min-width : 1200px) {
 			margin-right: 19px;	
+			padding-right: 0;
 		}	
 		.product-item__img{
 			margin-bottom: 6px;
@@ -211,8 +215,21 @@
 	.about__caption{
 		margin-bottom: 14px;
 		text-align: left;
+		font-weight: 600;
+		padding-bottom: 0;
 	}
 	.news-button{
-		margin-top: 10px;
+		margin-top: 2px;
 	}	
+}
+.bitumsblock .product-item:nth-child(3n+1){
+	margin-right: 0;
+	padding-right: 0;	
+}
+
+
+.catalog-wrap{
+	.product-item__img a:hover:after{
+		background-image: none;	
+	}
 }

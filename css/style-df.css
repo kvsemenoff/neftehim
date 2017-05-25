@@ -39,7 +39,7 @@
 
 .about__txtbox {
   width: 100%;
-  padding: 18px 10px 20px 10px;
+  padding: 18px 15px 20px 15px;
   background-color: rgba(255, 255, 255, 0.65);
   margin-bottom: 20px;
   overflow: hidden; }
@@ -60,12 +60,12 @@
       width: 68%;
       float: right;
       margin-bottom: 0px;
-      max-height: 569px; } }
+      height: 569px; } }
   @media only screen and (min-width: 1200px) {
     .about__txtbox {
       max-width: 750px;
       width: 100%;
-      padding: 18px 10px 40px 10px; } }
+      padding-bottom: 40px; } }
 
 .about__caption {
   color: #f57107;
@@ -79,7 +79,7 @@
   float: left;
   width: 100%;
   background-color: rgba(255, 255, 255, 0.65);
-  padding: 18px 10px 20px 10px;
+  padding: 18px 15px 20px 15px;
   text-align: right;
   color: #555;
   font-family: Arial;
@@ -129,7 +129,6 @@
     margin-bottom: 20px;
     vertical-align: top; }
     .news .news-item .news-item__date {
-      margin: 20px 0;
       display: inline-block; }
     @media only screen and (min-width: 990px) {
       .news .news-item {
@@ -167,24 +166,37 @@
   background-size: cover; }
 
 .bitumsblock {
-  padding: 14px 14px 20px 14px;
+  padding: 17px 14px 20px 14px;
   text-align: center; }
   @media only screen and (min-width: 770px) {
     .bitumsblock {
-      text-align: justify; } }
+      text-align: left; } }
   .bitumsblock .product-item {
-    margin-bottom: 11px; }
+    margin-bottom: 12px; }
+    @media only screen and (min-width: 990px) {
+      .bitumsblock .product-item {
+        padding-right: 11px; } }
     @media only screen and (min-width: 1200px) {
       .bitumsblock .product-item {
-        margin-right: 19px; } }
+        margin-right: 19px;
+        padding-right: 0; } }
     .bitumsblock .product-item .product-item__img {
       margin-bottom: 6px; }
   .bitumsblock .product-item_last {
     margin-right: 0; }
   .bitumsblock .about__caption {
     margin-bottom: 14px;
-    text-align: left; }
+    text-align: left;
+    font-weight: 600;
+    padding-bottom: 0; }
   .bitumsblock .news-button {
-    margin-top: 10px; }
+    margin-top: 2px; }
+
+.bitumsblock .product-item:nth-child(3n+1) {
+  margin-right: 0;
+  padding-right: 0; }
+
+.catalog-wrap .product-item__img a:hover:after {
+  background-image: none; }
 
 /*# sourceMappingURL=style-df.css.map */

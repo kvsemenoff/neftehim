@@ -8,11 +8,11 @@
   font-family: Arial;
   font-size: 12px;
   font-weight: 600;
-  line-height: 12px;
+  line-height: 13px;
   display: inline-block;
   min-height: 28px;
   text-decoration: none;
-  margin-bottom: 5px;
+  margin-bottom: 1px;
   vertical-align: top; }
   .news-item__caption:hover {
     color: #f57107; }
