@@ -83,6 +83,9 @@
 	h2{
 		padding-bottom: 15px;
 	}
+	.container{
+		padding: 0;
+	}
 	background: url(../img/mape-bg.jpg) center/cover;
 	.box{
 		margin-bottom: 20px;
@@ -138,15 +141,19 @@
 	}
 }
 .news-page{
+	padding-bottom: 20px;
 	background: url(../img/detailed_news.jpg) center/cover;
 	h2{
 		padding-bottom: 15px;
+	}
+	.news{
+		padding-bottom: 0;
 	}
 	.container{
 		padding: 0;
 	}
 	.news-button{
-		padding-top: 15px;
+		padding-top: 20px;
 	}
 	.img-wrap{
 		float: right;
@@ -171,6 +178,9 @@
 		line-height: 20px;
 		color: #000;
 		padding-bottom: 20px;
+	}
+	.news-page__p_move{
+		margin-top: -5px;
 	}
 	.content__date{
 		display: block;
