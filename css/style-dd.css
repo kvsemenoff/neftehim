@@ -80,16 +80,24 @@
 .catalog-wrap {
   background: url(../img/catimg.jpg) no-repeat top center;
   background-size: cover;
-  width: 100%; }
+  width: 100%;
+  text-align: center; }
+  @media only screen and (min-width: 990px) {
+    .catalog-wrap {
+      text-align: left; } }
   .catalog-wrap .box {
     padding: 17px 14px; }
-  @media only screen and (min-width: 990px) {
-    .catalog-wrap .product-item {
-      padding-right: 11px; } }
-  @media only screen and (min-width: 1200px) {
-    .catalog-wrap .product-item {
-      margin-right: 19px;
-      padding-right: 0; } }
+  .catalog-wrap .h2 {
+    text-align: left; }
+  .catalog-wrap .product-item {
+    text-align: left; }
+    @media only screen and (min-width: 990px) {
+      .catalog-wrap .product-item {
+        padding-right: 11px; } }
+    @media only screen and (min-width: 1200px) {
+      .catalog-wrap .product-item {
+        margin-right: 19px;
+        padding-right: 0; } }
   .catalog-wrap .product-item:nth-child(3n+1) {
     margin-right: 0;
     padding-right: 0; }

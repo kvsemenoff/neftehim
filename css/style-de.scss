@@ -37,6 +37,10 @@
 	float: left;
 	width: 195px;
 	padding: 0 15px;
+	min-height: 280px;
+	@media only screen and (min-width : 1200px) {
+		min-height: inherit;
+	}
 }
 .archive-pagination{
 	width: 360px;
@@ -96,7 +100,7 @@
 	}
 	.mape-wrap{
 		height: 500px;
-		padding: 20px 15px;
+		// padding: 20px 15px;
 		ymaps{
 			width: 100%;
 		}
@@ -115,9 +119,11 @@
 	padding-top: 15px;
 	.info_left{
 		padding-right: 5px;
+		margin-bottom: 20px;
 		@media only screen and (min-width : 990px) {
 			width: 390px;
 			float: left;
+			margin-bottom: 0;
 		}
 	}
 	.info_right{

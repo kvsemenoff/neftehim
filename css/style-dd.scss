@@ -93,11 +93,19 @@
 	background:url(../img/catimg.jpg) no-repeat top center;
 	background-size:cover;
 	width: 100%;
+	text-align: center;
+	@media only screen and (min-width : 990px) {
+		text-align: left;
+	}
 	.box{
-		padding: 17px 14px ;
+		padding: 17px 14px;
+	}
+	.h2{
+		text-align: left;
 	}
 	.product-item{		
 		// margin-bottom: 12px;
+		text-align: left;
 		@media only screen and (min-width : 990px) {
 			padding-right: 11px;
 		}		

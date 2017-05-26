@@ -30,7 +30,11 @@
 .doc-wrap {
   float: left;
   width: 195px;
-  padding: 0 15px; }
+  padding: 0 15px;
+  min-height: 280px; }
+  @media only screen and (min-width: 1200px) {
+    .doc-wrap {
+      min-height: inherit; } }
 
 .archive-pagination {
   width: 360px;
@@ -80,8 +84,7 @@
   .mape-page .box {
     margin-bottom: 20px; }
   .mape-page .mape-wrap {
-    height: 500px;
-    padding: 20px 15px; }
+    height: 500px; }
     .mape-page .mape-wrap ymaps {
       width: 100%; }
     @media only screen and (max-width: 990px) {
@@ -97,11 +100,13 @@
 .mape-info {
   padding-top: 15px; }
   .mape-info .info_left {
-    padding-right: 5px; }
+    padding-right: 5px;
+    margin-bottom: 20px; }
     @media only screen and (min-width: 990px) {
       .mape-info .info_left {
         width: 390px;
-        float: left; } }
+        float: left;
+        margin-bottom: 0; } }
   @media only screen and (min-width: 990px) {
     .mape-info .info_right {
       margin-left: 390px;
