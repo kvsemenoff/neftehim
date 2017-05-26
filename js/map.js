@@ -7,7 +7,11 @@ $(document).ready(function(){
     var myMap1 = new ymaps.Map('mape-ofice', {
         center: center,
         controls: [],
-        zoom: 16,      
+        zoom: 16,  
+        controls: ['smallMapDefaultSet']
+    }, {
+        searchControlProvider: 'yandex#search'
+        
 
     });
     
@@ -16,6 +20,9 @@ $(document).ready(function(){
         center: center1,
         controls: [],
         zoom: 16,
+        controls: ['smallMapDefaultSet']
+    }, {
+        searchControlProvider: 'yandex#search'
        
     });
     myMap2.behaviors.disable('scrollZoom');
