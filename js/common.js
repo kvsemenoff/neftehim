@@ -25,8 +25,8 @@ $(document).ready(function(){
 		var  id = $(this).attr('href'),
 		winW = $(window).width(),
 		winH = $(window).height();
-		$(id).css("left", winW/2-$(id).width()/2);
-		$(id).css("top", winH/2-$(id).height()/2);
+		$(id).css("left", winW/2-$(id).innerWidth()/2);
+		$(id).css("top", winH/2-$(id).innerHeight()/2);
 		$('body').css({
 			"overflowY" : "hidden",
 			"paddingRight" : "17px"
