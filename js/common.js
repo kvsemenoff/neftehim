@@ -85,7 +85,7 @@ $(document).ready(function(){
 
 $(document).on("scroll", function(){
 	var documentScroll = $(this).scrollTop();
-	if(documentScroll > 400){
+	if(documentScroll > 400 && window.innerWidth < 990){
 		$('.gototop').css("display", "block");
 	}
 	else{
