@@ -13,7 +13,8 @@
   min-height: 28px;
   text-decoration: none;
   margin-bottom: 1px;
-  vertical-align: top; }
+  vertical-align: top;
+  text-transform: uppercase; }
   .news-item__caption:hover {
     color: #f57107; }
 
