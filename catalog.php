@@ -14,7 +14,7 @@
 				
 				<div class="container box box1">
 
-					<h2 class="h2">Парафино-восковая продукция</h2>
+					<h1 class="h2">Парафино-восковая продукция</h1>
 
 					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
@@ -85,7 +85,7 @@
 				<!-- ============================================== -->
 
 				<div class="container box box2">
-					<h2 class="h2">Битумы и мазуты</h2>
+					<h1 class="h2">Битумы и мазуты</h1>
 
 					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
@@ -264,7 +264,7 @@
 				<!-- ================================================ -->
 
 				<div class="container box box3">
-					<h2 class="h2">Нефтехимия</h2>
+					<h1 class="h2">Нефтехимия</h1>
 					<div class="product-item">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	

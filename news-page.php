@@ -16,7 +16,7 @@
 			<div class="news-page">
 				<div class="container">				
 					<div class="box">
-						<h2 class="h2">Название выбранной новости</h2>
+						<h1 class="h2">Название выбранной новости</h1>
 						<div class="content clearfix">
 							<div class="img-wrap">
 								<img src="img/news-item4.jpg" alt="">
