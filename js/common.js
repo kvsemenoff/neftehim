@@ -80,8 +80,24 @@ $(document).ready(function(){
 		}
 		return false;
 	});
-
-	
-
-
 });//END READY
+
+
+$(document).on("scroll", function(){
+	var documentScroll = $(this).scrollTop();
+	if(documentScroll > 400){
+		$('.gototop').css("display", "block");
+	}
+	else{
+		$('.gototop').css("display", "none");
+	}
+
+	$('.gototop').on("click", function(e){
+		e.preventDefault();
+		var scrollTopH = $('body').offset().top;
+		$('html, body').animate({
+			scrollTop: scrollTopH
+		}, 500);
+	});
+});
+	

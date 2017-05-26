@@ -248,3 +248,28 @@
 		background-image: none;	
 	}
 }
+
+
+.gototop{
+	width: 70px;
+	height: 70px;
+	background-color: #f57107;
+	border-radius: 50%;
+	cursor: pointer;
+	display: inline-block;
+	position: fixed;
+	z-index: 990;
+	right: 3%;
+	bottom: 7%;
+	background-image: url("../img/arrow1.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	transform:rotate(-90deg);
+	display: none;
+	&:hover{
+		background-color: lighten(#f57107, 10%);
+	}
+	@media only screen and (min-width : 990px) {
+		display: none;
+	}
+}
