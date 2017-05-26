@@ -34,8 +34,13 @@
 .aboutbackground {
   background: url("../img/aboutbg.jpg") no-repeat top center;
   background-size: cover;
-  padding: 19px 0;
+  padding: 19px 0 30px 0;
   margin-top: 15px; }
+
+@media only screen and (min-width: 990px) {
+  .aboutblock {
+    height: 570px;
+    overflow: hidden; } }
 
 .about__txtbox {
   width: 100%;
@@ -60,7 +65,7 @@
       width: 68%;
       float: right;
       margin-bottom: 0px;
-      height: 569px; } }
+      height: 570px; } }
   @media only screen and (min-width: 1200px) {
     .about__txtbox {
       max-width: 750px;
@@ -90,7 +95,9 @@
     .about__formbox {
       width: 30%;
       float: left;
-      max-height: 575px; } }
+      overflow: hidden;
+      height: 569px;
+      padding-bottom: 40px; } }
   @media only screen and (min-width: 1200px) {
     .about__formbox {
       max-width: 360px;
