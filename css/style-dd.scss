@@ -98,7 +98,10 @@
 		text-align: left;
 	}
 	.box{
-		padding: 17px 14px;
+		padding: 20px 14px;
+		@media only screen and (min-width : 990px) {
+			padding: 17px 14px;
+		}
 	}
 	.h2{
 		text-align: left;
