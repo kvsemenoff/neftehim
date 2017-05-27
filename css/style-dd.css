@@ -1,7 +1,7 @@
 /* Header
 ==========================*/
 .header-box__left, .header-box__right {
-  padding: 20px 0px; }
+  padding: 19px 0px 20px 0; }
 
 @media only screen and (min-width: 768px) {
   .header-box__left {
@@ -22,7 +22,7 @@
     color: #421f18;
     font-size: 30px;
     font-weight: 400;
-    padding-bottom: 10px; }
+    padding-bottom: 12px; }
     .header-box__right span b {
       color: #f57107; }
 
@@ -125,6 +125,8 @@
   margin-bottom: 20px; }
   .box2 .product-item {
     margin-bottom: 21px; }
+  .box2 .catalog-button {
+    margin-top: -7px; }
 
 .box3 {
   margin-bottom: 20px; }
