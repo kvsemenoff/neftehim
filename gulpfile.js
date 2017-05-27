@@ -1,6 +1,5 @@
 
 var css_our = new Array(
-	
 	'css/reset.css',
 	'css/fonts.css',
 	'css/style.css',
@@ -52,7 +51,7 @@ var scss_our = new Array(
 var css_libs = new Array(
 	'libs/bootstrap/bootstrap-grid-3.3.1.min.css',
 	'libs/fancybox/jquery.fancybox.css',
-	'libs/owl.carousel/assets/owl.carousel.css',
+	'libs/owl.carousel/assets/owl.carousel.css'
 );
 
 var css_all = css_libs.concat(css_our); 
