@@ -198,6 +198,8 @@
         padding-right: 0; } }
     .bitumsblock .product-item .product-item__img {
       margin-bottom: 6px; }
+      .bitumsblock .product-item .product-item__img a:hover:after {
+        content: none; }
   .bitumsblock .product-item_last {
     margin-right: 0; }
   .bitumsblock .about__caption {

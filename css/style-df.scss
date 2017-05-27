@@ -226,6 +226,9 @@
 		}	
 		.product-item__img{
 			margin-bottom: 6px;
+			a:hover:after{
+				content: none;
+			}
 		}
 	}
 	.product-item_last{
