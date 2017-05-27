@@ -80,6 +80,15 @@ $(document).ready(function(){
 		}
 		return false;
 	});
+
+
+	$('.gototop').on("click", function(e){
+		e.preventDefault();
+		var scrollTopH = $('body').offset().top;
+		$('html, body').animate({
+			scrollTop: scrollTopH
+		}, 500);
+	});
 });//END READY
 
 
@@ -91,13 +100,6 @@ $(document).on("scroll", function(){
 	else{
 		$('.gototop').css("display", "none");
 	}
-
-	$('.gototop').on("click", function(e){
-		e.preventDefault();
-		var scrollTopH = $('body').offset().top;
-		$('html, body').animate({
-			scrollTop: scrollTopH
-		}, 500);
-	});
+	
 });
 	
