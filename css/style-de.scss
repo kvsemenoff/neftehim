@@ -32,8 +32,9 @@
 	}
 }
 .docs{
-	padding-bottom: 15px;
+	padding-bottom: 15px;	
 }
+
 .doc-wrap{
 	float: left;
 	width: 195px;
@@ -42,12 +43,12 @@
 	@media only screen and (min-width : 1200px) {
 		min-height: inherit;
 	}
-	.docs__download-hidden{
-		display: none;
+	.docs-hidden{		
 		@media only screen and (min-width : 992px) {
-			display: inline-block;
+			display: none;
 		}
-	}	
+	}
+		
 }
 .archive-pagination{
 	width: 360px;
