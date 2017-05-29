@@ -108,12 +108,6 @@
 .catalog-button {
   text-align: center; }
 
-.catalog-button1 {
-  padding-top: 15px; }
-
-.catalog-button2 {
-  padding-top: 20px; }
-
 .box .h2 {
   padding-bottom: 13px; }
 
@@ -123,16 +117,13 @@
     margin-bottom: 21px; }
 
 .box2 {
-  display: none;
   margin-bottom: 20px; }
   .box2 .product-item {
     margin-bottom: 21px; }
   .box2 .catalog-button {
     margin-top: -7px; }
 
-.box3 {
+.box3 .product-item {
   margin-bottom: 20px; }
-  .box3 .product-item {
-    margin-bottom: 5px; }
 
 /*# sourceMappingURL=style-dd.css.map */

@@ -29,7 +29,8 @@
     top: 50%;
     transform: translateY(-50%);
     width: 190px;
-    z-index: 99; }
+    z-index: 99;
+    text-transform: uppercase; }
     @media only screen and (min-width: 480px) {
       .button-more .button-more__txt {
         font-size: 16px;
@@ -65,5 +66,10 @@
     .button-more:hover:after {
       width: 100%;
       border-radius: 0; }
+
+.button-more_active {
+  background-image: url("../../img/arrow2.png"); }
+  .button-more_active:after {
+    width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
