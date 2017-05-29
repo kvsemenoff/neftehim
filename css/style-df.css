@@ -188,10 +188,11 @@
       text-align: left;
       padding: 17px 14px 20px 14px; } }
   .bitumsblock .product-item {
-    margin-bottom: 12px; }
+    margin-bottom: 20px; }
     @media only screen and (min-width: 990px) {
       .bitumsblock .product-item {
-        padding-right: 11px; } }
+        padding-right: 11px;
+        margin-bottom: 12px; } }
     @media only screen and (min-width: 1200px) {
       .bitumsblock .product-item {
         margin-right: 19px;

@@ -4,10 +4,8 @@
   display: inline-block;
   text-align: center;
   margin-bottom: 30px;
-  vertical-align: top; }
-  @media only screen and (min-width: 480px) {
-    .product-item {
-      text-align: left; } }
+  vertical-align: top;
+  text-align: left; }
   @media only screen and (min-width: 770px) {
     .product-item {
       max-width: 310px; } }
@@ -61,20 +59,19 @@
   color: #000;
   text-align: justify; }
   .product-item__txtbox p {
-    margin: 0; }
+    margin: 0;
+    text-align: justify; }
 
 .product-item__buttons {
   margin-top: 6px;
-  text-align: center; }
-  @media only screen and (min-width: 480px) {
-    .product-item__buttons {
-      text-align: left; } }
+  text-align: left; }
 
 .product-item__boxbuttons {
-  padding-top: 10px; }
+  display: inline-block;
+  float: right; }
   @media only screen and (min-width: 480px) {
     .product-item__boxbuttons {
-      float: right;
+      padding-top: 10px;
       display: inline-block;
       padding-right: 3px;
       padding-top: 0px; } }
@@ -85,10 +82,11 @@
   font-size: 12px;
   font-weight: 400;
   line-height: 20px;
-  display: block; }
+  display: inline-block;
+  float: left; }
   @media only screen and (min-width: 480px) {
     .product-item__pasport {
-      display: inline-block; } }
+      float: none; } }
 
 .product-item__look, .product-item__download {
   display: inline-block;

@@ -216,9 +216,10 @@
 		padding: 17px 14px 20px 14px;
 	}
 	.product-item{		
-		margin-bottom: 12px;
+		margin-bottom: 20px;
 		@media only screen and (min-width : 990px) {
 			padding-right: 11px;
+			margin-bottom: 12px;
 		}		
 		@media only screen and (min-width : 1200px) {
 			margin-right: 19px;	
