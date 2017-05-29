@@ -4,8 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Сервис</title>
-</head>
-<body>
+
 <?php require_once('includes/header.php'); ?>
 <div class="n-wrapper">
 	<div class="n-header">

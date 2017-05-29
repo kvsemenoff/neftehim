@@ -31,3 +31,5 @@
 	<link rel="stylesheet" href="css/style-df.css">
 	<link rel="stylesheet" href="css/style-dg.css">
 	
+</head>
+<body>
