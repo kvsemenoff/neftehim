@@ -53,6 +53,7 @@
     height: 79px;
     position: relative;
     float: left;
+    -webkit-transition: 0.3s all ease;
     transition: 0.3s all ease;
     background: url(../img/pagination-arrow.png) center left no-repeat;
     margin-bottom: 15px; }
@@ -65,15 +66,20 @@
       margin-top: -16px;
       width: 40px;
       height: 32px;
+      -webkit-transition: 0.3s all ease;
       transition: 0.3s all ease;
       background: url(../img/arrow2.png);
-      transform: rotate(180deg); }
+      -webkit-transform: rotate(180deg);
+          -ms-transform: rotate(180deg);
+              transform: rotate(180deg); }
     .archive-pagination .pagination__btn:hover {
       background: url(../img/pagination-arrow-hover.png) center left no-repeat; }
       .archive-pagination .pagination__btn:hover::before {
         background: url(../img/arrow1.png); }
     .archive-pagination .pagination__btn_right {
-      transform: rotate(180deg); }
+      -webkit-transform: rotate(180deg);
+          -ms-transform: rotate(180deg);
+              transform: rotate(180deg); }
 
 .mape-page {
   background: url(../img/mape-bg.jpg) center/cover; }
@@ -162,5 +168,3 @@
     display: block;
     font-size: 10px;
     color: #555; }
-
-/*# sourceMappingURL=style-de.css.map */

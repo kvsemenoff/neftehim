@@ -221,7 +221,8 @@
   width: 70px;
   height: 70px;
   background-color: #f57107;
-  border-radius: 50%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
   cursor: pointer;
   display: inline-block;
   position: fixed;
@@ -231,12 +232,12 @@
   background-image: url("../img/arrow1.png");
   background-repeat: no-repeat;
   background-position: center;
-  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+          transform: rotate(-90deg);
   display: none; }
   .gototop:hover {
     background-color: #f98d36; }
   @media only screen and (min-width: 990px) {
     .gototop {
       display: none; } }
-
-/*# sourceMappingURL=style-df.css.map */
