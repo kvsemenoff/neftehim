@@ -72,10 +72,119 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
+				
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.				
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.				
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item1.jpg" data-fancybox-group="group"><img src="img/news-item1.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					
 
-					<div class="catalog-button catalog-button1">			
-
-						<a href="#" class="button-more button-more_width js-button_1">
+					<div class="catalog-button catalog-button1">
+						<a href="#" class="button-more button-more_width">
 							<span class="button-more__bg">
 								<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>
 							</span>
@@ -143,7 +252,8 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -161,7 +271,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -179,7 +289,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -197,7 +307,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -215,7 +325,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -233,7 +343,7 @@
 						</div>
 						<div class="clearfix"></div>
 					</div>
-					<div class="product-item">
+					<div class="product-item js-producthide">
 						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
 						<div class="product-item__txtbox">	
 							<div class="product-item__img">
@@ -252,11 +362,10 @@
 						<div class="clearfix"></div>
 					</div>
 
-					<div class="catalog-button">				
-
-						<a href="#" class="button-more button-more_width js-button2">
+					<div class="catalog-button catalog-button2">
+						<a href="#" class="button-more button-more_width">
 							<span class="button-more__bg">
-								<span class="button-more__txt">СВЕРНУТЬ КАТАЛОГ</span>
+								<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>
 							</span>
 						</a>
 					</div>
@@ -321,7 +430,116 @@
 						<div class="clearfix"></div>
 					</div>
 
-					<div class="catalog-button catalog-button2">
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">						
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.									
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">						
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.							
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.									
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="product-item js-producthide">
+						<h4 class="product-item__caption">НАИМЕНОВАНИЕ ПРОДУКТА</h4>	
+						<div class="product-item__txtbox">	
+							<div class="product-item__img">
+								<a href="img/news-item2.jpg" data-fancybox-group="group"><img src="img/news-item2.jpg" alt=""></a>
+							</div>		
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis ante id ipsum vulputate, et ultrices purus bibendum. Vivamus in nulla  maximus.						
+							</p>	
+						</div>
+						<div class="product-item__buttons">
+							<span class="product-item__pasport">Паспорта и сертификаты</span>
+							<div class="product-item__boxbuttons">
+								<a href="#" class="product-item__look">Посмотреть</a>
+								<a href="#" class="product-item__download">Скачать</a>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+
+					<div class="catalog-button catalog-button3">
 						<a href="#" class="button-more button-more_width">
 							<span class="button-more__bg">
 								<span class="button-more__txt">ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ</span>

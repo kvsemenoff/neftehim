@@ -32,7 +32,8 @@
 		top:50%;
 		transform:translateY(-50%);
 		width: 190px;
-		z-index: 99;				
+		z-index: 99;			
+		text-transform: uppercase;	
 		@media only screen and (min-width : 480px) {
 			font-size: 16px;
 			right: 17px;
@@ -72,4 +73,9 @@
 	}
 }
 
-
+.button-more_active{
+	background-image: url("../../img/arrow2.png");
+	&:after{
+		width: 100%;
+	}
+}

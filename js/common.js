@@ -7,16 +7,22 @@ $(document).ready(function(){
 	});
 	// Конец Мобильное меню
 
-	// вывод блока в каталоге 
-	$(".js-button_1").click(function(z){
-		z.preventDefault();
-		$(".box2").slideToggle(500);
+	// вывод блока в каталоге 	
+
+	$('.js-producthide').hide();
+
+	$(".catalog-button a").on('click', function(e){
+		e.preventDefault();
+		$(this).parents('.box').find('.js-producthide').slideToggle();		
+		if ($(this).find('.button-more__txt').text() == 'Свернуть каталог') {
+			$(this).find('.button-more__txt').text('ВЕСЬ АССОРТИМЕНТ ПРОДУКЦИИ');
+			$(this).parents('.box').find('.button-more_active').removeClass('button-more_active');
+		}else{
+			$(this).find('.button-more__txt').text('Свернуть каталог');			
+			$(this).addClass('button-more_active');
+		}
 	});
-	$(".js-button2").click(function(q){
-		q.preventDefault();
-		// $(".box2").css("display","none");
-		$(".box2").slideUp(500);
-	});
+
 	// Конец вывод блока в каталоге
 
 	/*MODAL WINDOW*/
