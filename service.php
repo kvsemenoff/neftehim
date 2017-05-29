@@ -43,7 +43,7 @@
 									<div class="doc-wrap">
 										<div class="doc-item">
 											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
-											<a href="#">Скачать</a>
+											<a href="#" class="docs__download docs__download-hidden">Скачать</a>
 										</div>
 									</div>
 									<div class="doc-wrap">
@@ -72,7 +72,7 @@
 									<div class="doc-wrap">
 										<div class="doc-item">
 											<a class="doc" data-fancybox-group=group	href="../../img/doc.jpg"><img src="../../img/doc.jpg" alt=""></a><br/>
-											<a href="#">Скачать</a>
+											<a href="#" class="docs__download">Скачать</a>
 										</div>
 									</div>
 								</div>
