@@ -42,6 +42,12 @@
 	@media only screen and (min-width : 1200px) {
 		min-height: inherit;
 	}
+	.docs__download-hidden{
+		display: none;
+		@media only screen and (min-width : 992px) {
+			display: inline-block;
+		}
+	}	
 }
 .archive-pagination{
 	width: 360px;

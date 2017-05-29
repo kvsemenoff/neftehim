@@ -36,6 +36,11 @@
   @media only screen and (min-width: 1200px) {
     .doc-wrap {
       min-height: inherit; } }
+  .doc-wrap .docs__download-hidden {
+    display: none; }
+    @media only screen and (min-width: 992px) {
+      .doc-wrap .docs__download-hidden {
+        display: inline-block; } }
 
 .archive-pagination {
   width: 360px;
