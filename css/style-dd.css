@@ -119,6 +119,8 @@
 
 .box1 {
   margin-bottom: 20px; }
+  .box1 .product-item {
+    margin-bottom: 21px; }
 
 .box2 {
   display: none;
