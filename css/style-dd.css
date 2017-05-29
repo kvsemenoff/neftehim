@@ -6,7 +6,6 @@
 @media only screen and (min-width: 768px) {
   .header-box__left {
     max-width: 391px; } }
-
 .header-box__left img {
   margin: 0 auto; }
   @media only screen and (min-width: 768px) {
@@ -53,14 +52,8 @@
     padding-bottom: 25px; }
     @media only screen and (min-width: 768px) {
       .menu__wrap .main-menu {
-        display: -webkit-box !important;
-        display: -webkit-flex !important;
-        display: -ms-flexbox !important;
         display: flex !important;
-        -webkit-box-pack: justify;
-        -webkit-justify-content: space-between;
-            -ms-flex-pack: justify;
-                justify-content: space-between;
+        justify-content: space-between;
         padding-bottom: 0; } }
     .menu__wrap .main-menu li {
       margin: 10px 0px; }
@@ -132,3 +125,5 @@
 
 .box3 .product-item {
   margin-bottom: 20px; }
+
+/*# sourceMappingURL=style-dd.css.map */
