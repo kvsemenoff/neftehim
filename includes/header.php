@@ -1,6 +1,6 @@
 
 	<link rel="shortcut icon" href="favicon.png" />
-
+<!-- styles start -->
 	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
 	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />
 	<link rel="stylesheet" href="libs/owl.carousel/assets/owl.carousel.css" />	
@@ -30,6 +30,6 @@
 	<link rel="stylesheet" href="css/style-de.css">
 	<link rel="stylesheet" href="css/style-df.css">
 	<link rel="stylesheet" href="css/style-dg.css">
-	
+<!-- styles end -->
 </head>
 <body>
